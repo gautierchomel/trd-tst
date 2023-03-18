@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://gautierchomel.github.io/trd-tst/"
 title = "Thorium Reader"
 # Language settings
 contentDir = "content/en"
