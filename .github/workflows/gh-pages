@@ -1,0 +1,36 @@
+name: GitHub Pages
+
+on:
+  push:
+    branches:
+    - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }} # cancel same job if a newer commit's job is running
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        submodules: recursive # recursively checkout submodules
+        fetch-depth: 0
+    - name: Setup Node  
+      uses: actions/setup-node@v3
+      with:
+        node-version: 16.x
+    - name: Prepare for Docsy
+      run: npm install
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: "latest"
+        extended: true    # use hugo-extended
+    - name: Build
+      run: hugo --minify
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      if: ${{ github.ref == 'refs/heads/main' }}  # triggered only at main branch
+      with:
+        github_token: ${{ secrets.GH_TOKEN }} # needs to set actions secret variable first, https://docs.github.com/cn/actions/security-guides/automatic-token-authentication
+        publish_dir: ./public
