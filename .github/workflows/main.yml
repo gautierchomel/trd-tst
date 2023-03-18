@@ -19,7 +19,6 @@ jobs:
           extended: true
 
       - name: Run Hugo
-        working-directory: 
         run: hugo 
 
       - name: Deploy
