@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thorium Reader – Ressources</title><link>https://gautierchomel.github.io/trd-tst/docs/400_ressources/</link><description>Recent content in Ressources on Thorium Reader</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://gautierchomel.github.io/trd-tst/docs/400_ressources/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Functions</title><link>https://gautierchomel.github.io/trd-tst/docs/400_ressources/401_functions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/400_ressources/401_functions/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thorium Reader – Ressources</title><link>/docs/400_ressources/</link><description>Recent content in Ressources on Thorium Reader</description><generator>Hugo -- gohugo.io</generator><atom:link href="/docs/400_ressources/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Functions</title><link>/docs/400_ressources/401_functions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/400_ressources/401_functions/</guid><description>
 &lt;h2 id="library-functions">library functions&lt;/h2>
 &lt;table>
 &lt;thead>
@@ -12,70 +12,70 @@
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-add-24px.svg" alt="Icon " width="20px">&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/plus.svg" alt="Icon +" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-add-24px.svg" alt="Icon " width="20px">&lt;img class="icons" src="/images/icons/plus.svg" alt="Icon +" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Add book&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-arrow_forward_ios-24px.svg" alt="Icon Right arrow" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-arrow_forward_ios-24px.svg" alt="Icon Right arrow" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Next book &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-arrow_left_ios-24px.svg" alt="Icon Left arrow" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-arrow_left_ios-24px.svg" alt="Icon Left arrow" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Previous book &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-close-24px.svg" alt="Icon x" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-close-24px.svg" alt="Icon x" width="20px">&lt;/td>
 &lt;td>&lt;span class="function"> Close (the book information panel) &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/menu.svg" alt="Icon 3 points" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/menu.svg" alt="Icon 3 points" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Open book menu (gives access to the Book File, allows to Delete and Export a book) &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/magnifying_glass.svg" alt="Icon magnifying glass" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/magnifying_glass.svg" alt="Icon magnifying glass" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Search&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-view_list-24px.svg" alt="Icon list" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-view_list-24px.svg" alt="Icon list" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Book list view&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-view_module-24px.svg" alt="Icon grid" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-view_module-24px.svg" alt="Icon grid" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Book grid view &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/done.svg" alt="Icon circle" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/done.svg" alt="Icon circle" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Indicates that the action is finished, for example when importing a book&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/download.svg" alt="Icon arrow down to a box" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/download.svg" alt="Icon arrow down to a box" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Save a copy of the book file. &lt;/span>&lt;/td>
 &lt;td>Opens a system window to select the folder where to save the file. The bookmarks are not present in this exported file.&lt;/td>
 &lt;td>&lt;/td>
@@ -89,14 +89,14 @@
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/landmark.svg" alt="Icon Bookmarks" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/landmark.svg" alt="Icon Bookmarks" width="20px">&lt;/td>
 &lt;td>&lt;span class="function"> Bookmarks&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/loader.svg" alt="Icon " width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/loader.svg" alt="Icon " width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Icon Indicates that the book is being added to Thorium. This indication is not currently given to screen reader users.&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
@@ -117,70 +117,70 @@
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-arrow_back-24px.svg" alt="Icon fléche à gauche" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-arrow_back-24px.svg" alt="Icon fléche à gauche" width="20px">&lt;/td>
 &lt;td>&lt;span class="function"> Return to library (closes the book being read) &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/info.svg" alt="Icon information" width="20px"> &lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/outline-info-24px.svg" alt="Icon Information" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/info.svg" alt="Icon information" width="20px"> &lt;img class="icons" src="/images/icons/outline-info-24px.svg" alt="Icon Information" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Open book information panel&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>i&lt;/kbd>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/outline-flip_to_front-24px.svg" alt="Icon Display the library " width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/outline-flip_to_front-24px.svg" alt="Icon Display the library " width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Go to the library &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/magnifying_glass.svg" alt="Icon magnifying glass" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/magnifying_glass.svg" alt="Icon magnifying glass" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Search in the publication&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>f&lt;/kbd>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/font-size.svg" alt="Icon Settings" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/font-size.svg" alt="Icon Settings" width="20px">&lt;/td>
 &lt;td>&lt;span class="function"> Reading settings&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>s&lt;/kbd>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-arrow_forward_ios-24px.svg" alt="Icon right arrow" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-arrow_forward_ios-24px.svg" alt="Icon right arrow" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Next content &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-arrow_left_ios-24px.svg" alt="Icon Gauche" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-arrow_left_ios-24px.svg" alt="Icon Gauche" width="20px">&lt;/td>
 &lt;td>&lt;span class="function"> Previous content &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/outline-bookmark-24px.svg" alt="" width="20px"> &lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/outline-bookmark-24px-grey.svg" alt="Icon Bookmarks" width="20px"> &lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/outline-bookmark_border-24px.svg" alt="Icon Marque page" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/outline-bookmark-24px.svg" alt="" width="20px"> &lt;img class="icons" src="/images/icons/outline-bookmark-24px-grey.svg" alt="Icon Bookmarks" width="20px"> &lt;img class="icons" src="/images/icons/outline-bookmark_border-24px.svg" alt="Icon Marque page" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Adds or removes a bookmark&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>b&lt;/kbd>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/open_book.svg" alt="Icon navigation" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/open_book.svg" alt="Icon navigation" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Opens or closes the navigation panel&lt;/span>&lt;/td>
 &lt;td>Gives access to the table of contents, bookmarks, bookmarks and reference pagination&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>n&lt;/kbd>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/sharp-crop_free-24px.svg" alt="Icon Full screen mode" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/sharp-crop_free-24px.svg" alt="Icon Full screen mode" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Full screen &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
@@ -202,42 +202,42 @@
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/font-size.svg" alt="Text Size Icon" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/font-size.svg" alt="Text Size Icon" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Text: Change the font size &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/auto.svg" alt="Icon " width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/auto.svg" alt="Icon " width="20px">&lt;/td>
 &lt;td>&lt;span class="function">View / Layout : Scroll (text scrolls up and down)&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/pagine.svg" alt="Icon " width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/pagine.svg" alt="Icon " width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Display / Layout : Paginated &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/paragraph-left.svg" alt="Icon " width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/paragraph-left.svg" alt="Icon " width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Automatic Alignment &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/colonne.svg" alt="Icon " width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/colonne.svg" alt="Icon " width="20px">&lt;/td>
 &lt;td>&lt;span class="function">1 column&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/colonne2.svg" alt="Icon " width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/colonne2.svg" alt="Icon " width="20px">&lt;/td>
 &lt;td>&lt;span class="function"> 2 columns&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
@@ -258,7 +258,7 @@
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-edit-24px.svg" alt="Icon " width="20px"> &lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-edit-24px-grey.svg" alt="Edit Icon" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-edit-24px.svg" alt="Icon " width="20px"> &lt;img class="icons" src="/images/icons/baseline-edit-24px-grey.svg" alt="Edit Icon" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Edit (the name of a Bookmark&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
@@ -293,49 +293,49 @@
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-volume_up-24px.svg" alt="Icon Activate texte to speech" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-volume_up-24px.svg" alt="Icon Activate texte to speech" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Activate audio functions&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-pause-24px.svg" alt="Icon pause" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-pause-24px.svg" alt="Icon pause" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Pauses audio playback &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>2&lt;/kbd>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-play_arrow-24px.svg" alt="Icon play" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-play_arrow-24px.svg" alt="Icon play" width="20px">&lt;/td>
 &lt;td>&lt;span class="function"> Starts audio playback&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>2&lt;/kbd>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-skip_next-24px.svg" alt="Icon previous" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-skip_next-24px.svg" alt="Icon previous" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Goes to the next audio portion (depending on the book production)&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>3&lt;/kbd>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-skip_previous-24px.svg" alt="Icon next" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-skip_previous-24px.svg" alt="Icon next" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Goes to the previous audio portion (depending on the book production)&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>1&lt;/kbd>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-stop-24px.svg" alt="Icon " width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-stop-24px.svg" alt="Icon " width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Stops audio playback &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>4&lt;/kbd>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></description></item><item><title>Docs: Keyboard shortcuts</title><link>https://gautierchomel.github.io/trd-tst/docs/400_ressources/402_keyboard-shortcuts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/400_ressources/402_keyboard-shortcuts/</guid><description>
+&lt;/table></description></item><item><title>Docs: Keyboard shortcuts</title><link>/docs/400_ressources/402_keyboard-shortcuts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/400_ressources/402_keyboard-shortcuts/</guid><description>
 &lt;dl>
 &lt;dt> &lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>F10&lt;/kbd>: Main content(`FocusMain`)&lt;/dt>
 &lt;dd>in reader and library windows, moves the keyboard focus to the "main" area landmark (in the reader view, this is immediately before the frame that displays publication content)
@@ -475,7 +475,7 @@
 &lt;dt> &lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>4&lt;/kbd>: Stop audio (`AudioStop`)&lt;/dt>
 &lt;dd>in reader window, calls the "stop" command for audio (TTS or EPUB3 Media Overlays readaloud, or "pause" for audiobooks)
 &lt;/dd>
-&lt;/dl></description></item><item><title>Docs: Supported publication formats</title><link>https://gautierchomel.github.io/trd-tst/docs/400_ressources/406_formats/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/400_ressources/406_formats/</guid><description>
+&lt;/dl></description></item><item><title>Docs: Supported publication formats</title><link>/docs/400_ressources/406_formats/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/400_ressources/406_formats/</guid><description>
 &lt;dl>
 &lt;dt>EPUB 2&lt;/dt>
 &lt;dd> this is a legacy format, only adequate for basic ebooks.
@@ -523,7 +523,7 @@ sequances of images.
 this format. This is still an experimental format, and we hope that
 publishers will size it in 2021+.
 &lt;/dd>
-&lt;/dl></description></item><item><title>Docs: Glossary</title><link>https://gautierchomel.github.io/trd-tst/docs/400_ressources/420_glossary/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/400_ressources/420_glossary/</guid><description>
+&lt;/dl></description></item><item><title>Docs: Glossary</title><link>/docs/400_ressources/420_glossary/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/400_ressources/420_glossary/</guid><description>
 &lt;dl>
 &lt;dt id="bookInformation">Book information panel (Book Details)&lt;/dt>
 &lt;dd> Gives information about the digital book. This information is
@@ -544,7 +544,7 @@ The Marrakech Treaty
 &lt;dl>
 &lt;dt id="OPDS">OPDS&lt;/dt>&lt;dd> Open Publication Distribution System
 &lt;/dd>
-&lt;/dl></description></item><item><title>Docs: Frequently asked questions</title><link>https://gautierchomel.github.io/trd-tst/docs/400_ressources/430_faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/400_ressources/430_faq/</guid><description>
+&lt;/dl></description></item><item><title>Docs: Frequently asked questions</title><link>/docs/400_ressources/430_faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/400_ressources/430_faq/</guid><description>
 &lt;dl>
 &lt;dt id="TTSvoices">I can't select the adequate voice for read aloud function (TTS)&lt;/dt>
 &lt;dd>Thorium uses the voices from the computer's operating system, in combination with the language information provided by the book.

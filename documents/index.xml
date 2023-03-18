@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thorium Reader – Documents</title><link>https://gautierchomel.github.io/trd-tst/documents/</link><description>Recent content in Documents on Thorium Reader</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://gautierchomel.github.io/trd-tst/documents/index.xml" rel="self" type="application/rss+xml"/><item><title>Documents: Accessibility of this website</title><link>https://gautierchomel.github.io/trd-tst/documents/accessibility/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/documents/accessibility/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thorium Reader – Documents</title><link>/documents/</link><description>Recent content in Documents on Thorium Reader</description><generator>Hugo -- gohugo.io</generator><atom:link href="/documents/index.xml" rel="self" type="application/rss+xml"/><item><title>Documents: Accessibility of this website</title><link>/documents/accessibility/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/documents/accessibility/</guid><description>
 &lt;p>The thorium reader website content published since October 2022 is compliant with the Web Content Accessibility Guidelines (WCAG) 2.1 at the AA level.&lt;/p>
 &lt;h2 id="accessibility-policy">Accessibility policy&lt;/h2>
 &lt;p>EDRLab takes the following steps to ensure the accessibility of the website:&lt;/p>
@@ -21,7 +21,7 @@ The LINA 25 website is designed to be compatible with assistive technologies and
 &lt;p>HTML
 WAI-ARIA
 CSS
-SVG&lt;/p></description></item><item><title>Documents: Privacy Policy of this web page</title><link>https://gautierchomel.github.io/trd-tst/documents/privacy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/documents/privacy/</guid><description>
+SVG&lt;/p></description></item><item><title>Documents: Privacy Policy of this web page</title><link>/documents/privacy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/documents/privacy/</guid><description>
 &lt;p>22 November 2022&lt;/p>
 &lt;h2 id="owner-of-the-application">Owner of the application&lt;/h2>
 &lt;p>European Digital Reading Lab
@@ -50,7 +50,7 @@ France&lt;/p>
 &lt;/ul>
 &lt;p>The codebase of Thorium Reader is open-sourced and can therefore be fully inspected, with the exception of a small software library used as core for the Readium LCP DRM, which does not store or send any data.&lt;/p>
 &lt;h2 id="updates">Updates&lt;/h2>
-&lt;p>We may change the Privacy Policy from time to time. We will notify you by posting the revised Privacy Policy on this page and the date on which the last changes were made will be noted at the top of the page.&lt;/p></description></item><item><title>Documents: Privacy Policy of Thorium Reader</title><link>https://gautierchomel.github.io/trd-tst/documents/thorium-privacy-policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/documents/thorium-privacy-policy/</guid><description>
+&lt;p>We may change the Privacy Policy from time to time. We will notify you by posting the revised Privacy Policy on this page and the date on which the last changes were made will be noted at the top of the page.&lt;/p></description></item><item><title>Documents: Privacy Policy of Thorium Reader</title><link>/documents/thorium-privacy-policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/documents/thorium-privacy-policy/</guid><description>
 &lt;p>22 November 2022&lt;/p>
 &lt;h2 id="owner-of-the-application">Owner of the application&lt;/h2>
 &lt;p>European Digital Reading Lab
@@ -79,7 +79,7 @@ France&lt;/p>
 &lt;/ul>
 &lt;p>The codebase of Thorium Reader is open-sourced and can therefore be fully inspected, with the exception of a small software library used as core for the Readium LCP DRM, which does not store or send any data.&lt;/p>
 &lt;h2 id="updates">Updates&lt;/h2>
-&lt;p>We may change the Privacy Policy from time to time. We will notify you by posting the revised Privacy Policy on this page and the date on which the last changes were made will be noted at the top of the page.&lt;/p></description></item><item><title>Documents: Thorium Reader terms of use</title><link>https://gautierchomel.github.io/trd-tst/documents/thorium-terms-of-use/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/documents/thorium-terms-of-use/</guid><description>
+&lt;p>We may change the Privacy Policy from time to time. We will notify you by posting the revised Privacy Policy on this page and the date on which the last changes were made will be noted at the top of the page.&lt;/p></description></item><item><title>Documents: Thorium Reader terms of use</title><link>/documents/thorium-terms-of-use/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/documents/thorium-terms-of-use/</guid><description>
 &lt;p>22 November 2022&lt;/p>
 &lt;p>Please read carefully the following terms and conditions and the documents incorporated by reference therein (collectively, the “Terms of Use”) before you begin using the Thorium Reader application (the “Application”).&lt;/p>
 &lt;p>By using the Application, you agree to be bound by these Terms of Use and our Privacy Policy, which are incorporated herein by reference. If you do not agree to these Terms of Use or the Privacy Policy, you should not access or use our Application.&lt;/p>

@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thorium Reader – Help and resources for a better Thorium reading experience</title><link>https://gautierchomel.github.io/trd-tst/docs/</link><description>Recent content in Help and resources for a better Thorium reading experience on Thorium Reader</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://gautierchomel.github.io/trd-tst/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Start reading</title><link>https://gautierchomel.github.io/trd-tst/docs/100_quickstart/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/100_quickstart/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thorium Reader – Help and resources for a better Thorium reading experience</title><link>/docs/</link><description>Recent content in Help and resources for a better Thorium reading experience on Thorium Reader</description><generator>Hugo -- gohugo.io</generator><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Start reading</title><link>/docs/100_quickstart/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/100_quickstart/</guid><description>
 &lt;p>Thorium is a digital book reader, it is also a library
 where you can store your books and access to online catalogs.
 Thorium does not require any account or online access to be launched and used.&lt;/p>
@@ -35,7 +35,7 @@ to &lt;a href="220_organizing/222_catalogs">catalogs&lt;/a> and organize your co
 To read a book just click on it or validate with &lt;kbd>Enter&lt;/kbd>
 when selected.
 &lt;/div>
-&lt;/div></description></item><item><title>Docs: Moving around in a book</title><link>https://gautierchomel.github.io/trd-tst/docs/210_reading/211_moving/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/210_reading/211_moving/</guid><description>
+&lt;/div></description></item><item><title>Docs: Moving around in a book</title><link>/docs/210_reading/211_moving/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/210_reading/211_moving/</guid><description>
 &lt;p>The navigation options can be very different from one book to another.
 Thorium allows the following.
 The navigation options can be very different from one book to another. Thorium allows:&lt;/p>
@@ -52,7 +52,7 @@ The navigation options can be very different from one book to another. Thorium a
 &lt;p>To navigate forward and backward in the content of the book you can
 use the arrows on your keyboard or click on the navigation arrows
 located at the bottom right of the reading interface
-(&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-arrow_left_ios-24px.svg" alt="Previous content button" width="15px">&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-arrow_forward_ios-24px.svg" alt="Next content button" width="15px">).&lt;/p>
+(&lt;img class="icons" src="/images/icons/baseline-arrow_left_ios-24px.svg" alt="Previous content button" width="15px">&lt;img class="icons" src="/images/icons/baseline-arrow_forward_ios-24px.svg" alt="Next content button" width="15px">).&lt;/p>
 &lt;p>It is possible to move between chapters using
 &lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>Previous page (Page Up)&lt;/kbd> (previous chapter) and
 &lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>Next page (Page Down)&lt;/kbd> (next chapter)
@@ -87,7 +87,7 @@ to explore and move through the table of contents.
 &lt;/details>
 &lt;/div>
 &lt;div class="flex-even markdown-inner">
-&lt;img src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-TDM-light.png" alt="Screenshot, table of contents: Titles Level 1 Cover, Title, Copyright, Dedicae, Exergue, Introduction, The Mark of Four; Title Level 2 Deduction elevated to a science."/>
+&lt;img src="/images/local-fr/thorium-TDM-light.png" alt="Screenshot, table of contents: Titles Level 1 Cover, Title, Copyright, Dedicae, Exergue, Introduction, The Mark of Four; Title Level 2 Deduction elevated to a science."/>
 &lt;/div>
 &lt;/div>
 &lt;h2 id="landmarks">Landmarks&lt;/h2>
@@ -114,7 +114,7 @@ is available on the W3C website.&lt;/p>
 &lt;/div>
 &lt;/div>
 &lt;div class="flex-even markdown-inner">
-&lt;img src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-reperes.png" alt="Screenshot, Go to page. Current page: 3. A drop-down menu indicates 3, an editable field indicates Enter page number, a button indicates Go to."/>
+&lt;img src="/images/local-fr/thorium-reperes.png" alt="Screenshot, Go to page. Current page: 3. A drop-down menu indicates 3, an editable field indicates Enter page number, a button indicates Go to."/>
 &lt;/div>
 &lt;/div>
 &lt;div class="alert alert-primary" role="alert">
@@ -136,17 +136,17 @@ then enter the page number in the edit box by typing it or
 changing the value using the &lt;code>Go to page&lt;/code> box.&lt;/p>
 &lt;/div>
 &lt;div class="flex-even markdown-inner">
-&lt;img src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-gotopage.png" alt="Screenshot, Go to page. Current page: 3. A drop-down menu indicates 3, an editable field indicates Enter page number, a button indicates Go to."/>
+&lt;img src="/images/local-fr/thorium-gotopage.png" alt="Screenshot, Go to page. Current page: 3. A drop-down menu indicates 3, an editable field indicates Enter page number, a button indicates Go to."/>
 &lt;/div>
 &lt;/div>
 &lt;div class="alert alert-primary" role="alert">
 &lt;p>Attention !&lt;/p>
-&lt;a href="https://gautierchomel.github.io/trd-tst/thorium-reader-doc/400_ressources/420_glossary#AdaptedBooks">
+&lt;a href="/thorium-reader-doc/400_ressources/420_glossary#AdaptedBooks">
 Adapted books&lt;/a> sometimes use the reference pagination to offer a regular
 book breakdown to readers without reproducing the pagination of the
 original pagination. In this case the reference pagination cannot be used
 to refer to the printed book.
-&lt;/div></description></item><item><title>Docs: Where am I?</title><link>https://gautierchomel.github.io/trd-tst/docs/210_reading/212_whereami/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/210_reading/212_whereami/</guid><description>
+&lt;/div></description></item><item><title>Docs: Where am I?</title><link>/docs/210_reading/212_whereami/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/210_reading/212_whereami/</guid><description>
 &lt;div class="book-columns flex flex-wrap">
 &lt;div class="flex-even markdown-inner">
 &lt;p>The keyboard shortcuts &lt;kbd>Shift&lt;/kbd> + &lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>k&lt;/kbd>
@@ -162,13 +162,13 @@ of the interface and will be read by a screen reader.&lt;/p>
 &lt;/details>
 &lt;/div>
 &lt;div class="flex-even markdown-inner">
-&lt;img src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-whereami-ctrlK.png" alt="Screenshot, notification area, current page 103 - progress = 14/25 (barrel incident) [32%] H1 VII / H2 Barrel incident."/>
+&lt;img src="/images/local-fr/thorium-whereami-ctrlK.png" alt="Screenshot, notification area, current page 103 - progress = 14/25 (barrel incident) [32%] H1 VII / H2 Barrel incident."/>
 &lt;/div>
 &lt;/div>
 &lt;p>The keyboard shortcut &lt;kbd>Shift&lt;/kbd> + &lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>n&lt;/kbd> will open the table of content Navigation menu centered and focused to the detected heading closest to the reading location.&lt;/p>
 &lt;p>When you look at the &lt;code>Navigation&lt;/code> menu, Thorium shows the current chapter
 in the &lt;code>table of contents&lt;/code> and the current page in the &lt;code>Go to page&lt;/code> menu.&lt;/p>
-&lt;img src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-whereami-tdmfocus.png" alt="Screenshot, reading a book with title VII Barrel Incident. The navigation pane is open, the table of contents shows the title Barrel Incident in a square which indicates that this is the chapter being read."/>
+&lt;img src="/images/local-fr/thorium-whereami-tdmfocus.png" alt="Screenshot, reading a book with title VII Barrel Incident. The navigation pane is open, the table of contents shows the title Barrel Incident in a square which indicates that this is the chapter being read."/>
 &lt;h1 id="access-more-informations">Access more informations&lt;/h1>
 &lt;div class="book-columns flex flex-wrap">
 &lt;div class="flex-even markdown-inner">
@@ -186,7 +186,7 @@ to open a panel that displays the title structure and page number.&lt;/p>
 and return to the text.&lt;/p>
 &lt;/div>
 &lt;div class="flex-even markdown-inner">
-&lt;img src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-progression.png" alt="Screenshot, progress: 14/25 (barrel incident) [1%] h1: VII"/>
+&lt;img src="/images/local-fr/thorium-progression.png" alt="Screenshot, progress: 14/25 (barrel incident) [1%] h1: VII"/>
 &lt;/div>
 &lt;/div>
 &lt;details >&lt;summary>Use &lt;strong>Where am I&lt;/strong> with NVDA&lt;/summary>
@@ -206,7 +206,7 @@ through the screen reader link (marked with a double underline) in the main
 underline) in the main content frame (which can be navigated to with the
 with the &lt;kbd>Tab&lt;/kbd> key or with the letter &lt;kbd>M&lt;/kbd> in navigation mode).&lt;/p>
 &lt;/div>
-&lt;/details></description></item><item><title>Docs: Search in a book</title><link>https://gautierchomel.github.io/trd-tst/docs/210_reading/213_search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/210_reading/213_search/</guid><description>
+&lt;/details></description></item><item><title>Docs: Search in a book</title><link>/docs/210_reading/213_search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/210_reading/213_search/</guid><description>
 &lt;p>You can use &lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>F&lt;/kbd> keys to access the
 search field. Enter your search term. By clicking on the
 &lt;code>Search&lt;/code> button, you get &lt;code>Back&lt;/code> and &lt;code>Next&lt;/code> buttons to navigate between occurences.
@@ -219,7 +219,7 @@ Remember that performing a search and navigating thru the results
 will make you loose the reading point you where at.
 Just place a Bookmark to make sure you find your way back.
 &lt;/div>
-&lt;img src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-search-navpanel.png" alt="Screenshot, the search bar is present above the text, the corresponding text highlighted in green and the Search panel indicates a match"/></description></item><item><title>Docs: Mark a page or a passage</title><link>https://gautierchomel.github.io/trd-tst/docs/210_reading/214_bookmarks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/210_reading/214_bookmarks/</guid><description>
+&lt;img src="/images/local-fr/thorium-search-navpanel.png" alt="Screenshot, the search bar is present above the text, the corresponding text highlighted in green and the Search panel indicates a match"/></description></item><item><title>Docs: Mark a page or a passage</title><link>/docs/210_reading/214_bookmarks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/210_reading/214_bookmarks/</guid><description>
 &lt;h2 id="add-a-bookmark">Add a bookmark&lt;/h2>
 &lt;p>The &lt;code>bookmark&lt;/code> button allows you to add a custom bookmark.
 A &lt;code>bookmark&lt;/code> can be a fixed point or a text selection.
@@ -233,7 +233,7 @@ after this action.&lt;/p>
 &lt;div class="alert alert-primary" role="alert">
 &lt;p>Select the text you want to mark.
 Press the &lt;code>bookmark&lt;/code> button
-(&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/outline-bookmark-24px-grey.svg" alt="" width="20px">)
+(&lt;img class="icons" src="/images/icons/outline-bookmark-24px-grey.svg" alt="" width="20px">)
 or the key combination &lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>B&lt;/kbd>.&lt;/p>
 &lt;p>If no text is selected so the full page will be marked.&lt;/p>
 &lt;/div>
@@ -262,7 +262,7 @@ you to use them easily.&lt;/p>
 &lt;/div>
 &lt;div class="flex-even markdown-inner">
 &lt;figure>
-&lt;img src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-marquePages.png" alt="">
+&lt;img src="/images/local-fr/thorium-marquePages.png" alt="">
 &lt;figcaption class="icon">
 &lt;/figcaption>
 &lt;/figure>
@@ -282,8 +282,8 @@ on which the cursor is located. Then use
 A sound notification will inform you of the number of bookmarks
 in the current publication.
 &lt;/div>
-&lt;/details></description></item><item><title>Docs: Reading settings</title><link>https://gautierchomel.github.io/trd-tst/docs/210_reading/215_readingparameters/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/210_reading/215_readingparameters/</guid><description>
-&lt;p>In the reading interface use the &lt;code>Preferences&lt;/code> button (&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/font-size.svg" alt="" width="20px">): the following options are revealed.&lt;/p>
+&lt;/details></description></item><item><title>Docs: Reading settings</title><link>/docs/210_reading/215_readingparameters/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/210_reading/215_readingparameters/</guid><description>
+&lt;p>In the reading interface use the &lt;code>Preferences&lt;/code> button (&lt;img class="icons" src="/images/icons/font-size.svg" alt="" width="20px">): the following options are revealed.&lt;/p>
 &lt;h2 id="theme">Theme&lt;/h2>
 &lt;p>The color of the background and foreground can be changed using one of the three
 available themes - Neutral, Sepia and Night.&lt;/p>
@@ -308,7 +308,7 @@ the operating system.&lt;/p>
 &lt;/ol>
 &lt;/div>
 &lt;div class="flex-even markdown-inner">
-&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-verdana.png" alt="Screenshot showing the Text settings Pannel with verdana set up as reading font">
+&lt;img class="icons" src="/images/local-fr/thorium-verdana.png" alt="Screenshot showing the Text settings Pannel with verdana set up as reading font">
 &lt;/div>
 &lt;/div>
 &lt;div class="book-columns flex flex-wrap">
@@ -323,7 +323,7 @@ the operating system.&lt;/p>
 &lt;/ol>
 &lt;/div>
 &lt;div class="flex-even markdown-inner">
-&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-luciole.png" alt="Screenshot showing the Text settings Pannel with Luciole set up as reading font"/>
+&lt;img class="icons" src="/images/local-fr/thorium-luciole.png" alt="Screenshot showing the Text settings Pannel with Luciole set up as reading font"/>
 &lt;/div>
 &lt;/div>
 &lt;/div>
@@ -343,20 +343,20 @@ indicated during the production of the digital book.
 &lt;code>Split TTS&lt;/code> will split the content by sentence for more precise highlighting.&lt;/p>
 &lt;div class="alert alert-primary" role="alert">
 Thorium uses the voices from the computer&amp;rsquo;s operating system, in combination with the language information provided by the book. If you experience problems please check the related FAQ entry &lt;a href="../400_ressources/430_faq#TTSvoices">I can&amp;rsquo;t select the adequate voice for read aloud function (TTS)&lt;/a>.
-&lt;/div></description></item><item><title>Docs: Read mathematics</title><link>https://gautierchomel.github.io/trd-tst/docs/210_reading/221_maths/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/210_reading/221_maths/</guid><description>
+&lt;/div></description></item><item><title>Docs: Read mathematics</title><link>/docs/210_reading/221_maths/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/210_reading/221_maths/</guid><description>
 &lt;p>Thorium-Reader supports mathematical formulas in MathML
 format thanks to the MathJax module. This last one requires memory resources
 so it is not automatically activated when you open Thorium.
 To activate it when reading a book, go to the
 menu &lt;code>Reading settings&lt;/code>, at the bottom of the &lt;code>Display&lt;/code> tab you will find
 a checkbox &lt;code>MathJax&lt;/code>.&lt;/p>
-&lt;img src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-mathjax.png" alt="Screenshot of a complex mathematical formula correctly displayed with the MathJax option checked."/>
+&lt;img src="/images/local-fr/thorium-mathjax.png" alt="Screenshot of a complex mathematical formula correctly displayed with the MathJax option checked."/>
 &lt;p>Once MathJax is activated, you can use the &lt;code>contextual menu&lt;/code> (right click)
 on a mathematical formula inserted in MathML format and use the many
 options proposed such as reading aloud (speech), viewing the semantic marking
 or copy the formula with its semantic attributes to use it in a
 compatible editor.&lt;/p>
-&lt;img src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-mathjax-menu.png" alt="Screenshot of the MathJax context menu showing the Accessibility sub-menu with the Activate option checked."/>
+&lt;img src="/images/local-fr/thorium-mathjax-menu.png" alt="Screenshot of the MathJax context menu showing the Accessibility sub-menu with the Activate option checked."/>
 &lt;details >&lt;summary>Read &lt;strong>mathematics&lt;/strong> with NVDA&lt;/summary>
 &lt;div class="markdown-inner">
 &lt;p>You can read mathematical expressions tagged with MathML using
@@ -393,7 +393,7 @@ understanding of the formula via a precise description.&lt;/p>
 &lt;p>Books that include mathematics in MathML form should
 indicate this in their accessibility information.
 If this is not indicated, then they are certainly described images.&lt;/p>
-&lt;/div></description></item><item><title>Docs: The library</title><link>https://gautierchomel.github.io/trd-tst/docs/220_organizing/221_libraries/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/220_organizing/221_libraries/</guid><description>
+&lt;/div></description></item><item><title>Docs: The library</title><link>/docs/220_organizing/221_libraries/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/220_organizing/221_libraries/</guid><description>
 &lt;p>A book can be added to the library by opening it with Thorium
 from Windows Explorer or by importing it with the
 &lt;code>Import Book&lt;/code> button.
@@ -407,11 +407,11 @@ When a book is imported, it is copied and prepared in a reserved folder.&lt;/p>
 It offers a quick access view organized into two sections:
 &lt;code>Recently added&lt;/code> and &lt;code>Resume reading&lt;/code>. The &lt;code>All Books&lt;/code>&lt;br>
 button will display all the books imported into Thorium.&lt;/p>
-&lt;p>The default view is the grid view (&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-view_module-24px.svg" alt="Icon grid" width="20px">), it shows the book covers, title and author.
+&lt;p>The default view is the grid view (&lt;img class="icons" src="/images/icons/baseline-view_module-24px.svg" alt="Icon grid" width="20px">), it shows the book covers, title and author.
 Clicking on any of these items will open the book in a new
 window. A menu for each book allows you to access the &lt;code>Book File&lt;/code>,
 &lt;code>Delete&lt;/code> or &lt;code>Export&lt;/code> the book.&lt;/p>
-&lt;p>It is possible to choose display as a &lt;code>list view&lt;/code> (&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-view_list-24px.svg" alt="Icon list" width="20px">), in this view the cover is no longer
+&lt;p>It is possible to choose display as a &lt;code>list view&lt;/code> (&lt;img class="icons" src="/images/icons/baseline-view_list-24px.svg" alt="Icon list" width="20px">), in this view the cover is no longer
 displayed but the year of publication and the publisher are shown.&lt;/p>
 &lt;h2 id="all-books">All Books&lt;/h2>
 &lt;p>The &lt;code>All books&lt;/code> view is organized as a table, it displays all the
@@ -422,10 +422,10 @@ For example, click on the word &lt;em>English&lt;/em> in the language column to 
 books in English displayed.&lt;/p>
 &lt;p>The column headers allow you to sort the books in ascending or descending order.
 The &lt;code>magnifying glass&lt;/code> icon
-(&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/magnifying_glass.svg" alt="" width="20px">)
+(&lt;img class="icons" src="/images/icons/magnifying_glass.svg" alt="" width="20px">)
 in the header of the first column activates a search field by column
 allowing for example to search for an expression only among the titles
-of the works.&lt;/p></description></item><item><title>Docs: Access to catalogs</title><link>https://gautierchomel.github.io/trd-tst/docs/220_organizing/222_catalogs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/220_organizing/222_catalogs/</guid><description>
+of the works.&lt;/p></description></item><item><title>Docs: Access to catalogs</title><link>/docs/220_organizing/222_catalogs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/220_organizing/222_catalogs/</guid><description>
 &lt;p>Many public libraries and bookstores are adopting
 &lt;a href="https://opds.io/">OPDS&lt;/a> as a standard format to display their
 catalog on the Web. Thorium can provide access to OPDS 1 and 2 catalogs.
@@ -449,7 +449,7 @@ to see the magic happen.&lt;/a>&lt;/p>
 &lt;/p>
 &lt;/div>
 &lt;figure>
-&lt;img src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-opds-add.png" alt="">
+&lt;img src="/images/local-fr/thorium-opds-add.png" alt="">
 &lt;figcaption class="icon">
 &lt;/figcaption>
 &lt;/figure>
@@ -466,7 +466,7 @@ to browse, download and read all the books in Gallica.
 more information on the OPDS catalog of Gallica (in French)&lt;/a> and
 &lt;a href="https://gallica.bnf.fr/edit/und/a-propos">about Gallica.&lt;/a>&lt;/p>
 &lt;figure>
-&lt;img src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-opds-gallica-1.png" alt="">
+&lt;img src="/images/local-fr/thorium-opds-gallica-1.png" alt="">
 &lt;figcaption class="icon">
 &lt;/figcaption>
 &lt;/figure>
@@ -476,7 +476,7 @@ more information on the OPDS catalog of Gallica (in French)&lt;/a> and
 &lt;p>You can use &lt;a href="https://www.feedbooks.com/catalog">feedbooks OPDS&lt;/a> to browse &lt;a href="https://www.feedbooks.com/#">Feedbook catalog&lt;/a>. Once you have selected a book you&amp;rsquo;ll be redirected to the webpage where you can buy the book.&lt;/p>
 &lt;p>Feedbooks OPDS allows you to loggin from Thorium Catalog feed with the &lt;em>Shelf&lt;/em> button on the upper right corner. Anybook bought with your Feedbooks account will be available for download directly from the Thorium OPDS feed catalog interface.&lt;/p>
 &lt;/div>
-&lt;/div></description></item><item><title>Docs: Add tags</title><link>https://gautierchomel.github.io/trd-tst/docs/220_organizing/223_tags/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/220_organizing/223_tags/</guid><description>
+&lt;/div></description></item><item><title>Docs: Add tags</title><link>/docs/220_organizing/223_tags/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/220_organizing/223_tags/</guid><description>
 &lt;p>You can enrich the information of the books in your library by
 adding &lt;code>Tags&lt;/code> to them.
 `Tags&amp;rsquo; allow you to quickly search and sort books in list view.&lt;/p>
@@ -487,7 +487,7 @@ the name of the tag you want to add then press the &lt;code>Add&lt;/code> button
 The tag is added in a blue box, you can remove it by clicking on
 the cross.&lt;/p>
 &lt;/div>
-&lt;img src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-tags.png" alt="Screenshot, the search bar is present above the text, the corresponding text is highlighted in green and the Search panel shows 1 match"/></description></item><item><title>Docs: Search</title><link>https://gautierchomel.github.io/trd-tst/docs/220_organizing/223_search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/220_organizing/223_search/</guid><description>
+&lt;img src="/images/local-fr/thorium-tags.png" alt="Screenshot, the search bar is present above the text, the corresponding text is highlighted in green and the Search panel shows 1 match"/></description></item><item><title>Docs: Search</title><link>/docs/220_organizing/223_search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/220_organizing/223_search/</guid><description>
 &lt;p>Press the &lt;kbd>Ctrl + F&lt;/kbd> key combination, enter the text you want to search,
 press the &lt;code>Results&lt;/code> button, then press the
 &lt;kbd>Enter&lt;/kbd> on the link to the desired result.&lt;/p>
@@ -500,12 +500,12 @@ For example among the authors only.
 user added tags.
 The content of the book is not included in the search.
 To perform a search inside book content you have to open the book and
-activate the Search in a book function.&lt;/p></description></item><item><title>Docs: Accessibility information</title><link>https://gautierchomel.github.io/trd-tst/docs/300_accessibility/301_a11yinfos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/300_accessibility/301_a11yinfos/</guid><description>
+activate the Search in a book function.&lt;/p></description></item><item><title>Docs: Accessibility information</title><link>/docs/300_accessibility/301_a11yinfos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/300_accessibility/301_a11yinfos/</guid><description>
 &lt;p>Currently Thorium displays in the
-&lt;a href="https://gautierchomel.github.io/trd-tst/thorium-reader-doc/400_ressources/420_glossary#bookInformation">Book information panel&lt;/a>
+&lt;a href="/thorium-reader-doc/400_ressources/420_glossary#bookInformation">Book information panel&lt;/a>
 under the heading &lt;code>Description&lt;/code> the content of the accessibility summary metadata
 (&lt;span lang="en">accessibilitySummary&lt;/span>).&lt;/p>
-&lt;img src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-bookinfo-a11ysummary.png" alt="Screenshot, the book The Mark of Four indicates: This publication complies with the SNE Charter - natively accessible textual EPUBs »."/>
+&lt;img src="/images/local-fr/thorium-bookinfo-a11ysummary.png" alt="Screenshot, the book The Mark of Four indicates: This publication complies with the SNE Charter - natively accessible textual EPUBs »."/>
 &lt;div class="alert alert-primary" role="alert">
 &lt;p>Attention !&lt;/p>
 &lt;p>Work is underway to develop a guide for displaying accessibility information.
@@ -517,7 +517,7 @@ We are following this work and will implement the recommendations soon.&lt;/p>
 Thorium displays this information as it was defined.
 In case of doubt or complaint,
 please contact the distributor or the publisher of the file.&lt;/p>
-&lt;/div></description></item><item><title>Docs: Native accessibility functions</title><link>https://gautierchomel.github.io/trd-tst/docs/300_accessibility/310_natives/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/300_accessibility/310_natives/</guid><description>
+&lt;/div></description></item><item><title>Docs: Native accessibility functions</title><link>/docs/300_accessibility/310_natives/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/300_accessibility/310_natives/</guid><description>
 &lt;div class="alert alert-primary" role="alert">
 &lt;p>Attention !&lt;/p>
 &lt;p>The native accessibility features offered by Thorium are strongly
@@ -526,7 +526,7 @@ affected by the quality of the read files.&lt;/p>
 &lt;h2 id="visual-adjustments">Visual adjustments&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>The application allows you to &lt;a href="https://gautierchomel.github.io/trd-tst/thorium-reader-doc/210_reading/215_ReadingParameters/#th%c3%a8me">change the color themes&lt;/a> and &lt;a href="https://gautierchomel.github.io/trd-tst/thorium-reader-doc/210_reading/215_ReadingParameters/#texte">change the display font, text size&lt;/a>.&lt;/p>
+&lt;p>The application allows you to &lt;a href="/thorium-reader-doc/210_reading/215_ReadingParameters/#th%c3%a8me">change the color themes&lt;/a> and &lt;a href="/thorium-reader-doc/210_reading/215_ReadingParameters/#texte">change the display font, text size&lt;/a>.&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>it is possible to use all the fonts installed on the computer.&lt;/p>
@@ -577,7 +577,7 @@ options available in the &lt;code>Settings / Readaloud&lt;/code> menu.&lt;/p>
 &lt;/ul>
 &lt;div class="alert alert-primary" role="alert">
 Thorium uses the voices from the computer&amp;rsquo;s operating system, in combination with the language information provided by the book. If you experience problems please check the related FAQ entry &lt;a href="../400_ressources/430_faq#TTSvoices">I can&amp;rsquo;t select the adequate voice for read aloud function (TTS)&lt;/a>.
-&lt;/div></description></item><item><title>Docs: Reading with a screen reader</title><link>https://gautierchomel.github.io/trd-tst/docs/300_accessibility/310_screenreaders/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/300_accessibility/310_screenreaders/</guid><description>
+&lt;/div></description></item><item><title>Docs: Reading with a screen reader</title><link>/docs/300_accessibility/310_screenreaders/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/300_accessibility/310_screenreaders/</guid><description>
 &lt;p>When launching Thorium, if a screen reader is detected, the relative functions
 functions are activated.&lt;/p>
 &lt;div class="alert alert-primary" role="alert">
@@ -704,7 +704,7 @@ modifier key of the screen reader (e.g. the Caps Lock key).&lt;/p>
 &lt;td>&lt;kbd>ALT&lt;/kbd> + &lt;kbd>CTRL&lt;/kbd> + &lt;kbd>↑&lt;/kbd>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></description></item><item><title>Docs: Tests and approach</title><link>https://gautierchomel.github.io/trd-tst/docs/300_accessibility/391_epubtest/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/300_accessibility/391_epubtest/</guid><description>
+&lt;/table></description></item><item><title>Docs: Tests and approach</title><link>/docs/300_accessibility/391_epubtest/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/300_accessibility/391_epubtest/</guid><description>
 &lt;p>EDRLab has a close relationship with the DAISY Consortium.
 Thanks to the people with visual impairments who participate in our design
 and testing, Thorium Reader aims to be one of the most
@@ -742,7 +742,7 @@ accessible reading applications on the market.&lt;/p>
 &lt;li>Summary&lt;/li>
 &lt;li>Detection and use of HTML elements Details and Summary&lt;/li>
 &lt;li>Technique for linking to a single extended description placed in a separate HTML file via text hyperlinks.&lt;/li>
-&lt;/ul></description></item><item><title>Docs: Functions</title><link>https://gautierchomel.github.io/trd-tst/docs/400_ressources/401_functions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/400_ressources/401_functions/</guid><description>
+&lt;/ul></description></item><item><title>Docs: Functions</title><link>/docs/400_ressources/401_functions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/400_ressources/401_functions/</guid><description>
 &lt;h2 id="library-functions">library functions&lt;/h2>
 &lt;table>
 &lt;thead>
@@ -756,70 +756,70 @@ accessible reading applications on the market.&lt;/p>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-add-24px.svg" alt="Icon " width="20px">&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/plus.svg" alt="Icon +" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-add-24px.svg" alt="Icon " width="20px">&lt;img class="icons" src="/images/icons/plus.svg" alt="Icon +" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Add book&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-arrow_forward_ios-24px.svg" alt="Icon Right arrow" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-arrow_forward_ios-24px.svg" alt="Icon Right arrow" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Next book &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-arrow_left_ios-24px.svg" alt="Icon Left arrow" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-arrow_left_ios-24px.svg" alt="Icon Left arrow" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Previous book &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-close-24px.svg" alt="Icon x" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-close-24px.svg" alt="Icon x" width="20px">&lt;/td>
 &lt;td>&lt;span class="function"> Close (the book information panel) &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/menu.svg" alt="Icon 3 points" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/menu.svg" alt="Icon 3 points" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Open book menu (gives access to the Book File, allows to Delete and Export a book) &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/magnifying_glass.svg" alt="Icon magnifying glass" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/magnifying_glass.svg" alt="Icon magnifying glass" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Search&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-view_list-24px.svg" alt="Icon list" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-view_list-24px.svg" alt="Icon list" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Book list view&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-view_module-24px.svg" alt="Icon grid" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-view_module-24px.svg" alt="Icon grid" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Book grid view &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/done.svg" alt="Icon circle" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/done.svg" alt="Icon circle" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Indicates that the action is finished, for example when importing a book&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/download.svg" alt="Icon arrow down to a box" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/download.svg" alt="Icon arrow down to a box" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Save a copy of the book file. &lt;/span>&lt;/td>
 &lt;td>Opens a system window to select the folder where to save the file. The bookmarks are not present in this exported file.&lt;/td>
 &lt;td>&lt;/td>
@@ -833,14 +833,14 @@ accessible reading applications on the market.&lt;/p>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/landmark.svg" alt="Icon Bookmarks" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/landmark.svg" alt="Icon Bookmarks" width="20px">&lt;/td>
 &lt;td>&lt;span class="function"> Bookmarks&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/loader.svg" alt="Icon " width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/loader.svg" alt="Icon " width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Icon Indicates that the book is being added to Thorium. This indication is not currently given to screen reader users.&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
@@ -861,70 +861,70 @@ accessible reading applications on the market.&lt;/p>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-arrow_back-24px.svg" alt="Icon fléche à gauche" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-arrow_back-24px.svg" alt="Icon fléche à gauche" width="20px">&lt;/td>
 &lt;td>&lt;span class="function"> Return to library (closes the book being read) &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/info.svg" alt="Icon information" width="20px"> &lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/outline-info-24px.svg" alt="Icon Information" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/info.svg" alt="Icon information" width="20px"> &lt;img class="icons" src="/images/icons/outline-info-24px.svg" alt="Icon Information" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Open book information panel&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>i&lt;/kbd>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/outline-flip_to_front-24px.svg" alt="Icon Display the library " width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/outline-flip_to_front-24px.svg" alt="Icon Display the library " width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Go to the library &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/magnifying_glass.svg" alt="Icon magnifying glass" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/magnifying_glass.svg" alt="Icon magnifying glass" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Search in the publication&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>f&lt;/kbd>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/font-size.svg" alt="Icon Settings" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/font-size.svg" alt="Icon Settings" width="20px">&lt;/td>
 &lt;td>&lt;span class="function"> Reading settings&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>s&lt;/kbd>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-arrow_forward_ios-24px.svg" alt="Icon right arrow" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-arrow_forward_ios-24px.svg" alt="Icon right arrow" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Next content &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-arrow_left_ios-24px.svg" alt="Icon Gauche" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-arrow_left_ios-24px.svg" alt="Icon Gauche" width="20px">&lt;/td>
 &lt;td>&lt;span class="function"> Previous content &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/outline-bookmark-24px.svg" alt="" width="20px"> &lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/outline-bookmark-24px-grey.svg" alt="Icon Bookmarks" width="20px"> &lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/outline-bookmark_border-24px.svg" alt="Icon Marque page" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/outline-bookmark-24px.svg" alt="" width="20px"> &lt;img class="icons" src="/images/icons/outline-bookmark-24px-grey.svg" alt="Icon Bookmarks" width="20px"> &lt;img class="icons" src="/images/icons/outline-bookmark_border-24px.svg" alt="Icon Marque page" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Adds or removes a bookmark&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>b&lt;/kbd>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/open_book.svg" alt="Icon navigation" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/open_book.svg" alt="Icon navigation" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Opens or closes the navigation panel&lt;/span>&lt;/td>
 &lt;td>Gives access to the table of contents, bookmarks, bookmarks and reference pagination&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>n&lt;/kbd>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/sharp-crop_free-24px.svg" alt="Icon Full screen mode" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/sharp-crop_free-24px.svg" alt="Icon Full screen mode" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Full screen &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
@@ -946,42 +946,42 @@ accessible reading applications on the market.&lt;/p>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/font-size.svg" alt="Text Size Icon" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/font-size.svg" alt="Text Size Icon" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Text: Change the font size &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/auto.svg" alt="Icon " width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/auto.svg" alt="Icon " width="20px">&lt;/td>
 &lt;td>&lt;span class="function">View / Layout : Scroll (text scrolls up and down)&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/pagine.svg" alt="Icon " width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/pagine.svg" alt="Icon " width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Display / Layout : Paginated &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/paragraph-left.svg" alt="Icon " width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/paragraph-left.svg" alt="Icon " width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Automatic Alignment &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/colonne.svg" alt="Icon " width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/colonne.svg" alt="Icon " width="20px">&lt;/td>
 &lt;td>&lt;span class="function">1 column&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/colonne2.svg" alt="Icon " width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/colonne2.svg" alt="Icon " width="20px">&lt;/td>
 &lt;td>&lt;span class="function"> 2 columns&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
@@ -1002,7 +1002,7 @@ accessible reading applications on the market.&lt;/p>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-edit-24px.svg" alt="Icon " width="20px"> &lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-edit-24px-grey.svg" alt="Edit Icon" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-edit-24px.svg" alt="Icon " width="20px"> &lt;img class="icons" src="/images/icons/baseline-edit-24px-grey.svg" alt="Edit Icon" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Edit (the name of a Bookmark&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
@@ -1037,49 +1037,49 @@ accessible reading applications on the market.&lt;/p>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-volume_up-24px.svg" alt="Icon Activate texte to speech" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-volume_up-24px.svg" alt="Icon Activate texte to speech" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Activate audio functions&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-pause-24px.svg" alt="Icon pause" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-pause-24px.svg" alt="Icon pause" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Pauses audio playback &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>2&lt;/kbd>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-play_arrow-24px.svg" alt="Icon play" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-play_arrow-24px.svg" alt="Icon play" width="20px">&lt;/td>
 &lt;td>&lt;span class="function"> Starts audio playback&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>2&lt;/kbd>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-skip_next-24px.svg" alt="Icon previous" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-skip_next-24px.svg" alt="Icon previous" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Goes to the next audio portion (depending on the book production)&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>3&lt;/kbd>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-skip_previous-24px.svg" alt="Icon next" width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-skip_previous-24px.svg" alt="Icon next" width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Goes to the previous audio portion (depending on the book production)&lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>1&lt;/kbd>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-stop-24px.svg" alt="Icon " width="20px">&lt;/td>
+&lt;td>&lt;img class="icons" src="/images/icons/baseline-stop-24px.svg" alt="Icon " width="20px">&lt;/td>
 &lt;td>&lt;span class="function">Stops audio playback &lt;/span>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>4&lt;/kbd>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></description></item><item><title>Docs: Keyboard shortcuts</title><link>https://gautierchomel.github.io/trd-tst/docs/400_ressources/402_keyboard-shortcuts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/400_ressources/402_keyboard-shortcuts/</guid><description>
+&lt;/table></description></item><item><title>Docs: Keyboard shortcuts</title><link>/docs/400_ressources/402_keyboard-shortcuts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/400_ressources/402_keyboard-shortcuts/</guid><description>
 &lt;dl>
 &lt;dt> &lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>F10&lt;/kbd>: Main content(`FocusMain`)&lt;/dt>
 &lt;dd>in reader and library windows, moves the keyboard focus to the "main" area landmark (in the reader view, this is immediately before the frame that displays publication content)
@@ -1219,7 +1219,7 @@ accessible reading applications on the market.&lt;/p>
 &lt;dt> &lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>4&lt;/kbd>: Stop audio (`AudioStop`)&lt;/dt>
 &lt;dd>in reader window, calls the "stop" command for audio (TTS or EPUB3 Media Overlays readaloud, or "pause" for audiobooks)
 &lt;/dd>
-&lt;/dl></description></item><item><title>Docs: Supported publication formats</title><link>https://gautierchomel.github.io/trd-tst/docs/400_ressources/406_formats/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/400_ressources/406_formats/</guid><description>
+&lt;/dl></description></item><item><title>Docs: Supported publication formats</title><link>/docs/400_ressources/406_formats/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/400_ressources/406_formats/</guid><description>
 &lt;dl>
 &lt;dt>EPUB 2&lt;/dt>
 &lt;dd> this is a legacy format, only adequate for basic ebooks.
@@ -1267,7 +1267,7 @@ sequances of images.
 this format. This is still an experimental format, and we hope that
 publishers will size it in 2021+.
 &lt;/dd>
-&lt;/dl></description></item><item><title>Docs: Glossary</title><link>https://gautierchomel.github.io/trd-tst/docs/400_ressources/420_glossary/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/400_ressources/420_glossary/</guid><description>
+&lt;/dl></description></item><item><title>Docs: Glossary</title><link>/docs/400_ressources/420_glossary/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/400_ressources/420_glossary/</guid><description>
 &lt;dl>
 &lt;dt id="bookInformation">Book information panel (Book Details)&lt;/dt>
 &lt;dd> Gives information about the digital book. This information is
@@ -1288,7 +1288,7 @@ The Marrakech Treaty
 &lt;dl>
 &lt;dt id="OPDS">OPDS&lt;/dt>&lt;dd> Open Publication Distribution System
 &lt;/dd>
-&lt;/dl></description></item><item><title>Docs: Frequently asked questions</title><link>https://gautierchomel.github.io/trd-tst/docs/400_ressources/430_faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/400_ressources/430_faq/</guid><description>
+&lt;/dl></description></item><item><title>Docs: Frequently asked questions</title><link>/docs/400_ressources/430_faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/400_ressources/430_faq/</guid><description>
 &lt;dl>
 &lt;dt id="TTSvoices">I can't select the adequate voice for read aloud function (TTS)&lt;/dt>
 &lt;dd>Thorium uses the voices from the computer's operating system, in combination with the language information provided by the book.
@@ -1299,7 +1299,7 @@ The Marrakech Treaty
 &lt;p>Once the required voice is installed, Thorium will choose the voice corresponding to the language of the book.&lt;/p>
 &lt;p>It may happen that the book has the wrong language. In this case, Thorium allows you to change the voice to one that is present in the system via the Voice menu
 &lt;/dd>&lt;/p>
-&lt;/dl></description></item><item><title>Docs: Credits</title><link>https://gautierchomel.github.io/trd-tst/docs/900_about/902_credits/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/900_about/902_credits/</guid><description>
+&lt;/dl></description></item><item><title>Docs: Credits</title><link>/docs/900_about/902_credits/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/900_about/902_credits/</guid><description>
 &lt;p>This documentation site is designed and maintained by EDRLab
 as part of the development of the Thorium-Reader application.&lt;/p>
 &lt;p>The main contributors of this documentation are :&lt;/p>
@@ -1355,7 +1355,7 @@ specific features:
 &lt;li>Canadian Electronic library, Canada&lt;/li>
 &lt;li>MLOL / Horizons Unlimited, Italy&lt;/li>
 &lt;li>Lyrasis, USA&lt;/li>
-&lt;/ul></description></item><item><title>Docs: Your help is precious</title><link>https://gautierchomel.github.io/trd-tst/docs/900_about/903_support/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/900_about/903_support/</guid><description>
+&lt;/ul></description></item><item><title>Docs: Your help is precious</title><link>/docs/900_about/903_support/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/900_about/903_support/</guid><description>
 &lt;p>
 You too can help Thorium Reader become the best reading application
 reading application by&lt;a href="https://www.edrlab.org/become-a-member/">
@@ -1375,14 +1375,14 @@ in our
 [support tracking tool](https://github.com/edrlab/thorium-reader-doc/issues/new).
 &lt;/li>
 &lt;li>Participate in the translation of resources.&lt;/li>
-&lt;/ul></description></item><item><title>Docs: Stuck?</title><link>https://gautierchomel.github.io/trd-tst/docs/900_about/904_issues/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/900_about/904_issues/</guid><description>
+&lt;/ul></description></item><item><title>Docs: Stuck?</title><link>/docs/900_about/904_issues/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/900_about/904_issues/</guid><description>
 &lt;p>If you do not find the answer to your problem on this site,
 you can tell us your problem via our &lt;a href="https://github.com/edrlab/thorium-reader-doc/issues/new">support tracking tool&lt;/a> or &lt;a href="https://www.edrlab.org/contact/">contact form&lt;/a>.&lt;/p>
 &lt;p>Here is the information we need:&lt;/p>
 &lt;ul>
 &lt;li>Operating system and it version&lt;/li>
 &lt;li>Thorium version (it is indicated at the bottom of the library under the title &lt;code>About Thorium&lt;/code>)&lt;/li>
-&lt;/ul></description></item><item><title>Docs: Contribute!</title><link>https://gautierchomel.github.io/trd-tst/docs/900_about/905_contribute/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/900_about/905_contribute/</guid><description>
+&lt;/ul></description></item><item><title>Docs: Contribute!</title><link>/docs/900_about/905_contribute/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/900_about/905_contribute/</guid><description>
 &lt;p>Thorium and its documentation are developed thanks to the user community.
 We need help to translate this documentation.&lt;/p>
 &lt;p>To do so, you can
@@ -1412,7 +1412,7 @@ languageName = &amp;#39;Español&amp;#39;
 contentDir = &amp;#39;content.es&amp;#39;
 weight = 3
 &lt;/code>&lt;/pre>&lt;p>Localized images such as screenshots should be added to the
-folder &lt;code>statics/images/local-(two letter language)&lt;/code>.&lt;/p></description></item><item><title>Docs: Licence</title><link>https://gautierchomel.github.io/trd-tst/docs/900_about/913_licence/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/900_about/913_licence/</guid><description>
+folder &lt;code>statics/images/local-(two letter language)&lt;/code>.&lt;/p></description></item><item><title>Docs: Licence</title><link>/docs/900_about/913_licence/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/900_about/913_licence/</guid><description>
 &lt;h2>Licensing&lt;/h2>
 &lt;p>
 Copyright 2019 European Digital Reading Lab. All rights reserved. Licensed

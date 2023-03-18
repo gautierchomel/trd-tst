@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thorium Reader – Organiser ses collections de livres</title><link>https://gautierchomel.github.io/trd-tst/fr/docs/220_organizing/</link><description>Recent content in Organiser ses collections de livres on Thorium Reader</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://gautierchomel.github.io/trd-tst/fr/docs/220_organizing/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: La bibliothèque</title><link>https://gautierchomel.github.io/trd-tst/fr/docs/220_organizing/221_libraries/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/fr/docs/220_organizing/221_libraries/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thorium Reader – Organiser ses collections de livres</title><link>/fr/docs/220_organizing/</link><description>Recent content in Organiser ses collections de livres on Thorium Reader</description><generator>Hugo -- gohugo.io</generator><atom:link href="/fr/docs/220_organizing/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: La bibliothèque</title><link>/fr/docs/220_organizing/221_libraries/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/fr/docs/220_organizing/221_libraries/</guid><description>
 &lt;p>Un livre peut être ajouté à la bibliothèque en l&amp;rsquo;ouvrant avec Thorium
 à partir de l&amp;rsquo;explorateur Windows ou en l&amp;rsquo;important à l&amp;rsquo;aide du bouton
 &lt;code>+ Importer un livre&lt;/code>.&lt;/p>
@@ -8,12 +8,12 @@
 Ce dernier propose une vue accés rapide organisée en deux sections :
 &lt;code>Récement ajouté&lt;/code> et &lt;code>Reprendre la lecture&lt;/code>. Le bouton &lt;code>Tous les livres&lt;/code>
 affichera la totalité des livres importés dans Thorium.&lt;/p>
-&lt;p>La vue par défaut est la vue grille (&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-view_module-24px.svg" alt="Icon grid" width="20px">)affiche les couvertures des livres, leur titre et leur auteur.
+&lt;p>La vue par défaut est la vue grille (&lt;img class="icons" src="/images/icons/baseline-view_module-24px.svg" alt="Icon grid" width="20px">)affiche les couvertures des livres, leur titre et leur auteur.
 Cliquer sur un de ces éléments déclenche l&amp;rsquo;ouverture du livre dans une nouvelle
 fenêtre. Un menu pour chaque livre permet d&amp;rsquo;accéder à la &lt;code>Fiche livre&lt;/code>, de
 &lt;code>Supprimer&lt;/code> ou d&amp;rsquo;&lt;code>Exporter&lt;/code> le livre.&lt;/p>
 &lt;p>Il est possible de choisir une vue en liste
-&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-view_list-24px.svg" alt="Icon list" width="20px">).
+&lt;img class="icons" src="/images/icons/baseline-view_list-24px.svg" alt="Icon list" width="20px">).
 Dans cette vue la
 couverture n&amp;rsquo;est plus affichée mais l&amp;rsquo;année de publication et l&amp;rsquo;éditeur sont indiqués.&lt;/p>
 &lt;h2 id="tous-les-livres">Tous les livres&lt;/h2>
@@ -25,10 +25,10 @@ Cliquez par exemple sur la mention Français de la colonne langue et seuls les
 livres en français sont affichés.&lt;/p>
 &lt;p>Les entête des colonnes permettent de trier les livres par ordre croissant ou
 décroissant. L&amp;rsquo;icone &lt;code>Loupe&lt;/code>
-(&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/magnifying_glass.svg" alt="" width="20px">)
+(&lt;img class="icons" src="/images/icons/magnifying_glass.svg" alt="" width="20px">)
 en entête de la première colonne active un champ de recherche par colonne
 permettant par exemple de rechercher une expression seulement parmis les titres
-des ouvrages.&lt;/p></description></item><item><title>Docs: Accéder à des catalogues</title><link>https://gautierchomel.github.io/trd-tst/fr/docs/220_organizing/222_catalogs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/fr/docs/220_organizing/222_catalogs/</guid><description>
+des ouvrages.&lt;/p></description></item><item><title>Docs: Accéder à des catalogues</title><link>/fr/docs/220_organizing/222_catalogs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/fr/docs/220_organizing/222_catalogs/</guid><description>
 &lt;p>
 De nombreuses bibliothèques publiques et librairies adoptent
 &lt;a href="https://opds.io/">OPDS&lt;/a> comme format standard pour afficher leur
@@ -52,7 +52,7 @@ Clic droit Copier ce lien et le coller dans Thorium Ajouter un panneau OPDS
 pour voir la magie opérer.&lt;/a>&lt;/p>
 &lt;/div>
 &lt;figure>
-&lt;img src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-opds-add.png" alt="">
+&lt;img src="/images/local-fr/thorium-opds-add.png" alt="">
 &lt;figcaption class="icon">
 &lt;/figcaption>
 &lt;/figure>
@@ -68,12 +68,12 @@ permettant de parcourir, télécharger et lire tous les livres de Gallica
 plus d'information sur le catalogue OPDS de Gallica&lt;/a> et
 &lt;a href="https://gallica.bnf.fr/edit/und/a-propos">à propos de Gallica.&lt;/a>&lt;/p>
 &lt;figure>
-&lt;img src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-opds-gallica-1.png" alt="">
+&lt;img src="/images/local-fr/thorium-opds-gallica-1.png" alt="">
 &lt;figcaption class="icon">
 &lt;/figcaption>
 &lt;/figure>
 &lt;/div>
-&lt;/div></description></item><item><title>Docs: Ajouter des tags</title><link>https://gautierchomel.github.io/trd-tst/fr/docs/220_organizing/223_tags/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/fr/docs/220_organizing/223_tags/</guid><description>
+&lt;/div></description></item><item><title>Docs: Ajouter des tags</title><link>/fr/docs/220_organizing/223_tags/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/fr/docs/220_organizing/223_tags/</guid><description>
 &lt;p>Vous pouvez enrichir les informations des livres de votre bibliothèque en leur
 ajoutant des &lt;code>Tags&lt;/code>. Les &lt;code>Tags&lt;/code> permettent de faire des recherches rapides et de
 trier les livres en vue liste.&lt;/p>
@@ -84,7 +84,7 @@ le nom du tag que vous souhaitez ajouter puis appuyez sur le bouton &lt;code>Ajo
 Le tag est ajouté dans une boite bleu, vous pouvez le supprimer en cliquant sur
 la croix.&lt;/p>
 &lt;/div>
-&lt;img src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-tags.png" alt="Capture d'écran, la barre de recherche est présente au dessus du texte, le texte correspondant surligné en vert et le panneau Recherche indique 1 correspondance"/></description></item><item><title>Docs: Rechercher parmis les livres</title><link>https://gautierchomel.github.io/trd-tst/fr/docs/220_organizing/223_search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/fr/docs/220_organizing/223_search/</guid><description>
+&lt;img src="/images/local-fr/thorium-tags.png" alt="Capture d'écran, la barre de recherche est présente au dessus du texte, le texte correspondant surligné en vert et le panneau Recherche indique 1 correspondance"/></description></item><item><title>Docs: Rechercher parmis les livres</title><link>/fr/docs/220_organizing/223_search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/fr/docs/220_organizing/223_search/</guid><description>
 &lt;p>Appuyez sur &lt;kbd>Ctrl + F&lt;/kbd>, saisissez le texte de la recherche,
 appuyez sur le bouton &lt;code>Résultats&lt;/code>, puis appuyez sur la touche
 &lt;kbd>Entrée&lt;/kbd> sur le lien vers le résultat souhaité.&lt;/p>

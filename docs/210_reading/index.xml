@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thorium Reader – Read a book</title><link>https://gautierchomel.github.io/trd-tst/docs/210_reading/</link><description>Recent content in Read a book on Thorium Reader</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://gautierchomel.github.io/trd-tst/docs/210_reading/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Moving around in a book</title><link>https://gautierchomel.github.io/trd-tst/docs/210_reading/211_moving/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/210_reading/211_moving/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thorium Reader – Read a book</title><link>/docs/210_reading/</link><description>Recent content in Read a book on Thorium Reader</description><generator>Hugo -- gohugo.io</generator><atom:link href="/docs/210_reading/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Moving around in a book</title><link>/docs/210_reading/211_moving/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/210_reading/211_moving/</guid><description>
 &lt;p>The navigation options can be very different from one book to another.
 Thorium allows the following.
 The navigation options can be very different from one book to another. Thorium allows:&lt;/p>
@@ -15,7 +15,7 @@ The navigation options can be very different from one book to another. Thorium a
 &lt;p>To navigate forward and backward in the content of the book you can
 use the arrows on your keyboard or click on the navigation arrows
 located at the bottom right of the reading interface
-(&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-arrow_left_ios-24px.svg" alt="Previous content button" width="15px">&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/baseline-arrow_forward_ios-24px.svg" alt="Next content button" width="15px">).&lt;/p>
+(&lt;img class="icons" src="/images/icons/baseline-arrow_left_ios-24px.svg" alt="Previous content button" width="15px">&lt;img class="icons" src="/images/icons/baseline-arrow_forward_ios-24px.svg" alt="Next content button" width="15px">).&lt;/p>
 &lt;p>It is possible to move between chapters using
 &lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>Previous page (Page Up)&lt;/kbd> (previous chapter) and
 &lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>Next page (Page Down)&lt;/kbd> (next chapter)
@@ -50,7 +50,7 @@ to explore and move through the table of contents.
 &lt;/details>
 &lt;/div>
 &lt;div class="flex-even markdown-inner">
-&lt;img src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-TDM-light.png" alt="Screenshot, table of contents: Titles Level 1 Cover, Title, Copyright, Dedicae, Exergue, Introduction, The Mark of Four; Title Level 2 Deduction elevated to a science."/>
+&lt;img src="/images/local-fr/thorium-TDM-light.png" alt="Screenshot, table of contents: Titles Level 1 Cover, Title, Copyright, Dedicae, Exergue, Introduction, The Mark of Four; Title Level 2 Deduction elevated to a science."/>
 &lt;/div>
 &lt;/div>
 &lt;h2 id="landmarks">Landmarks&lt;/h2>
@@ -77,7 +77,7 @@ is available on the W3C website.&lt;/p>
 &lt;/div>
 &lt;/div>
 &lt;div class="flex-even markdown-inner">
-&lt;img src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-reperes.png" alt="Screenshot, Go to page. Current page: 3. A drop-down menu indicates 3, an editable field indicates Enter page number, a button indicates Go to."/>
+&lt;img src="/images/local-fr/thorium-reperes.png" alt="Screenshot, Go to page. Current page: 3. A drop-down menu indicates 3, an editable field indicates Enter page number, a button indicates Go to."/>
 &lt;/div>
 &lt;/div>
 &lt;div class="alert alert-primary" role="alert">
@@ -99,17 +99,17 @@ then enter the page number in the edit box by typing it or
 changing the value using the &lt;code>Go to page&lt;/code> box.&lt;/p>
 &lt;/div>
 &lt;div class="flex-even markdown-inner">
-&lt;img src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-gotopage.png" alt="Screenshot, Go to page. Current page: 3. A drop-down menu indicates 3, an editable field indicates Enter page number, a button indicates Go to."/>
+&lt;img src="/images/local-fr/thorium-gotopage.png" alt="Screenshot, Go to page. Current page: 3. A drop-down menu indicates 3, an editable field indicates Enter page number, a button indicates Go to."/>
 &lt;/div>
 &lt;/div>
 &lt;div class="alert alert-primary" role="alert">
 &lt;p>Attention !&lt;/p>
-&lt;a href="https://gautierchomel.github.io/trd-tst/thorium-reader-doc/400_ressources/420_glossary#AdaptedBooks">
+&lt;a href="/thorium-reader-doc/400_ressources/420_glossary#AdaptedBooks">
 Adapted books&lt;/a> sometimes use the reference pagination to offer a regular
 book breakdown to readers without reproducing the pagination of the
 original pagination. In this case the reference pagination cannot be used
 to refer to the printed book.
-&lt;/div></description></item><item><title>Docs: Where am I?</title><link>https://gautierchomel.github.io/trd-tst/docs/210_reading/212_whereami/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/210_reading/212_whereami/</guid><description>
+&lt;/div></description></item><item><title>Docs: Where am I?</title><link>/docs/210_reading/212_whereami/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/210_reading/212_whereami/</guid><description>
 &lt;div class="book-columns flex flex-wrap">
 &lt;div class="flex-even markdown-inner">
 &lt;p>The keyboard shortcuts &lt;kbd>Shift&lt;/kbd> + &lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>k&lt;/kbd>
@@ -125,13 +125,13 @@ of the interface and will be read by a screen reader.&lt;/p>
 &lt;/details>
 &lt;/div>
 &lt;div class="flex-even markdown-inner">
-&lt;img src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-whereami-ctrlK.png" alt="Screenshot, notification area, current page 103 - progress = 14/25 (barrel incident) [32%] H1 VII / H2 Barrel incident."/>
+&lt;img src="/images/local-fr/thorium-whereami-ctrlK.png" alt="Screenshot, notification area, current page 103 - progress = 14/25 (barrel incident) [32%] H1 VII / H2 Barrel incident."/>
 &lt;/div>
 &lt;/div>
 &lt;p>The keyboard shortcut &lt;kbd>Shift&lt;/kbd> + &lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>n&lt;/kbd> will open the table of content Navigation menu centered and focused to the detected heading closest to the reading location.&lt;/p>
 &lt;p>When you look at the &lt;code>Navigation&lt;/code> menu, Thorium shows the current chapter
 in the &lt;code>table of contents&lt;/code> and the current page in the &lt;code>Go to page&lt;/code> menu.&lt;/p>
-&lt;img src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-whereami-tdmfocus.png" alt="Screenshot, reading a book with title VII Barrel Incident. The navigation pane is open, the table of contents shows the title Barrel Incident in a square which indicates that this is the chapter being read."/>
+&lt;img src="/images/local-fr/thorium-whereami-tdmfocus.png" alt="Screenshot, reading a book with title VII Barrel Incident. The navigation pane is open, the table of contents shows the title Barrel Incident in a square which indicates that this is the chapter being read."/>
 &lt;h1 id="access-more-informations">Access more informations&lt;/h1>
 &lt;div class="book-columns flex flex-wrap">
 &lt;div class="flex-even markdown-inner">
@@ -149,7 +149,7 @@ to open a panel that displays the title structure and page number.&lt;/p>
 and return to the text.&lt;/p>
 &lt;/div>
 &lt;div class="flex-even markdown-inner">
-&lt;img src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-progression.png" alt="Screenshot, progress: 14/25 (barrel incident) [1%] h1: VII"/>
+&lt;img src="/images/local-fr/thorium-progression.png" alt="Screenshot, progress: 14/25 (barrel incident) [1%] h1: VII"/>
 &lt;/div>
 &lt;/div>
 &lt;details >&lt;summary>Use &lt;strong>Where am I&lt;/strong> with NVDA&lt;/summary>
@@ -169,7 +169,7 @@ through the screen reader link (marked with a double underline) in the main
 underline) in the main content frame (which can be navigated to with the
 with the &lt;kbd>Tab&lt;/kbd> key or with the letter &lt;kbd>M&lt;/kbd> in navigation mode).&lt;/p>
 &lt;/div>
-&lt;/details></description></item><item><title>Docs: Search in a book</title><link>https://gautierchomel.github.io/trd-tst/docs/210_reading/213_search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/210_reading/213_search/</guid><description>
+&lt;/details></description></item><item><title>Docs: Search in a book</title><link>/docs/210_reading/213_search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/210_reading/213_search/</guid><description>
 &lt;p>You can use &lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>F&lt;/kbd> keys to access the
 search field. Enter your search term. By clicking on the
 &lt;code>Search&lt;/code> button, you get &lt;code>Back&lt;/code> and &lt;code>Next&lt;/code> buttons to navigate between occurences.
@@ -182,7 +182,7 @@ Remember that performing a search and navigating thru the results
 will make you loose the reading point you where at.
 Just place a Bookmark to make sure you find your way back.
 &lt;/div>
-&lt;img src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-search-navpanel.png" alt="Screenshot, the search bar is present above the text, the corresponding text highlighted in green and the Search panel indicates a match"/></description></item><item><title>Docs: Mark a page or a passage</title><link>https://gautierchomel.github.io/trd-tst/docs/210_reading/214_bookmarks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/210_reading/214_bookmarks/</guid><description>
+&lt;img src="/images/local-fr/thorium-search-navpanel.png" alt="Screenshot, the search bar is present above the text, the corresponding text highlighted in green and the Search panel indicates a match"/></description></item><item><title>Docs: Mark a page or a passage</title><link>/docs/210_reading/214_bookmarks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/210_reading/214_bookmarks/</guid><description>
 &lt;h2 id="add-a-bookmark">Add a bookmark&lt;/h2>
 &lt;p>The &lt;code>bookmark&lt;/code> button allows you to add a custom bookmark.
 A &lt;code>bookmark&lt;/code> can be a fixed point or a text selection.
@@ -196,7 +196,7 @@ after this action.&lt;/p>
 &lt;div class="alert alert-primary" role="alert">
 &lt;p>Select the text you want to mark.
 Press the &lt;code>bookmark&lt;/code> button
-(&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/outline-bookmark-24px-grey.svg" alt="" width="20px">)
+(&lt;img class="icons" src="/images/icons/outline-bookmark-24px-grey.svg" alt="" width="20px">)
 or the key combination &lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>B&lt;/kbd>.&lt;/p>
 &lt;p>If no text is selected so the full page will be marked.&lt;/p>
 &lt;/div>
@@ -225,7 +225,7 @@ you to use them easily.&lt;/p>
 &lt;/div>
 &lt;div class="flex-even markdown-inner">
 &lt;figure>
-&lt;img src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-marquePages.png" alt="">
+&lt;img src="/images/local-fr/thorium-marquePages.png" alt="">
 &lt;figcaption class="icon">
 &lt;/figcaption>
 &lt;/figure>
@@ -245,8 +245,8 @@ on which the cursor is located. Then use
 A sound notification will inform you of the number of bookmarks
 in the current publication.
 &lt;/div>
-&lt;/details></description></item><item><title>Docs: Reading settings</title><link>https://gautierchomel.github.io/trd-tst/docs/210_reading/215_readingparameters/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/210_reading/215_readingparameters/</guid><description>
-&lt;p>In the reading interface use the &lt;code>Preferences&lt;/code> button (&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/icons/font-size.svg" alt="" width="20px">): the following options are revealed.&lt;/p>
+&lt;/details></description></item><item><title>Docs: Reading settings</title><link>/docs/210_reading/215_readingparameters/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/210_reading/215_readingparameters/</guid><description>
+&lt;p>In the reading interface use the &lt;code>Preferences&lt;/code> button (&lt;img class="icons" src="/images/icons/font-size.svg" alt="" width="20px">): the following options are revealed.&lt;/p>
 &lt;h2 id="theme">Theme&lt;/h2>
 &lt;p>The color of the background and foreground can be changed using one of the three
 available themes - Neutral, Sepia and Night.&lt;/p>
@@ -271,7 +271,7 @@ the operating system.&lt;/p>
 &lt;/ol>
 &lt;/div>
 &lt;div class="flex-even markdown-inner">
-&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-verdana.png" alt="Screenshot showing the Text settings Pannel with verdana set up as reading font">
+&lt;img class="icons" src="/images/local-fr/thorium-verdana.png" alt="Screenshot showing the Text settings Pannel with verdana set up as reading font">
 &lt;/div>
 &lt;/div>
 &lt;div class="book-columns flex flex-wrap">
@@ -286,7 +286,7 @@ the operating system.&lt;/p>
 &lt;/ol>
 &lt;/div>
 &lt;div class="flex-even markdown-inner">
-&lt;img class="icons" src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-luciole.png" alt="Screenshot showing the Text settings Pannel with Luciole set up as reading font"/>
+&lt;img class="icons" src="/images/local-fr/thorium-luciole.png" alt="Screenshot showing the Text settings Pannel with Luciole set up as reading font"/>
 &lt;/div>
 &lt;/div>
 &lt;/div>
@@ -306,20 +306,20 @@ indicated during the production of the digital book.
 &lt;code>Split TTS&lt;/code> will split the content by sentence for more precise highlighting.&lt;/p>
 &lt;div class="alert alert-primary" role="alert">
 Thorium uses the voices from the computer&amp;rsquo;s operating system, in combination with the language information provided by the book. If you experience problems please check the related FAQ entry &lt;a href="../400_ressources/430_faq#TTSvoices">I can&amp;rsquo;t select the adequate voice for read aloud function (TTS)&lt;/a>.
-&lt;/div></description></item><item><title>Docs: Read mathematics</title><link>https://gautierchomel.github.io/trd-tst/docs/210_reading/221_maths/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/210_reading/221_maths/</guid><description>
+&lt;/div></description></item><item><title>Docs: Read mathematics</title><link>/docs/210_reading/221_maths/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/210_reading/221_maths/</guid><description>
 &lt;p>Thorium-Reader supports mathematical formulas in MathML
 format thanks to the MathJax module. This last one requires memory resources
 so it is not automatically activated when you open Thorium.
 To activate it when reading a book, go to the
 menu &lt;code>Reading settings&lt;/code>, at the bottom of the &lt;code>Display&lt;/code> tab you will find
 a checkbox &lt;code>MathJax&lt;/code>.&lt;/p>
-&lt;img src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-mathjax.png" alt="Screenshot of a complex mathematical formula correctly displayed with the MathJax option checked."/>
+&lt;img src="/images/local-fr/thorium-mathjax.png" alt="Screenshot of a complex mathematical formula correctly displayed with the MathJax option checked."/>
 &lt;p>Once MathJax is activated, you can use the &lt;code>contextual menu&lt;/code> (right click)
 on a mathematical formula inserted in MathML format and use the many
 options proposed such as reading aloud (speech), viewing the semantic marking
 or copy the formula with its semantic attributes to use it in a
 compatible editor.&lt;/p>
-&lt;img src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-mathjax-menu.png" alt="Screenshot of the MathJax context menu showing the Accessibility sub-menu with the Activate option checked."/>
+&lt;img src="/images/local-fr/thorium-mathjax-menu.png" alt="Screenshot of the MathJax context menu showing the Accessibility sub-menu with the Activate option checked."/>
 &lt;details >&lt;summary>Read &lt;strong>mathematics&lt;/strong> with NVDA&lt;/summary>
 &lt;div class="markdown-inner">
 &lt;p>You can read mathematical expressions tagged with MathML using

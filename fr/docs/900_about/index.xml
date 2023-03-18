@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thorium Reader – À propos de ce site</title><link>https://gautierchomel.github.io/trd-tst/fr/docs/900_about/</link><description>Recent content in À propos de ce site on Thorium Reader</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://gautierchomel.github.io/trd-tst/fr/docs/900_about/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Crédits</title><link>https://gautierchomel.github.io/trd-tst/fr/docs/900_about/902_credits/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/fr/docs/900_about/902_credits/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thorium Reader – À propos de ce site</title><link>/fr/docs/900_about/</link><description>Recent content in À propos de ce site on Thorium Reader</description><generator>Hugo -- gohugo.io</generator><atom:link href="/fr/docs/900_about/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Crédits</title><link>/fr/docs/900_about/902_credits/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/fr/docs/900_about/902_credits/</guid><description>
 &lt;p>Ce site de documentation est conçu et maintenu par EDRLab dans le cadre du développement de l&amp;rsquo;application Thorium-Reader.&lt;/p>
 &lt;p>Les contributeurs principaux de cette documentation sont :&lt;/p>
 &lt;ul>
@@ -58,7 +58,7 @@ l'ajout de caractéristiques spécifiques:
 &lt;li>Canadian Electronic library, Canada&lt;/li>
 &lt;li>MLOL / Horizons Illimités, Italie&lt;/li>
 &lt;li>Lyrasis, USA&lt;/li>
-&lt;/ul></description></item><item><title>Docs: Votre aide est précieuse</title><link>https://gautierchomel.github.io/trd-tst/fr/docs/900_about/903_support/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/fr/docs/900_about/903_support/</guid><description>
+&lt;/ul></description></item><item><title>Docs: Votre aide est précieuse</title><link>/fr/docs/900_about/903_support/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/fr/docs/900_about/903_support/</guid><description>
 &lt;p>
 Vous pouvez aider Thorium Reader à devenir la meilleure application
 de lecture en &lt;a href="https://www.edrlab.org/become-a-member/">
@@ -80,7 +80,7 @@ dans notre
 [outil de suivi de support](https://github.com/edrlab/thorium-reader-doc/issues/new).
 &lt;/li>
 &lt;li>Participer à la traduction des ressources.&lt;/li>
-&lt;/ul></description></item><item><title>Docs: Vous rencontrez un problème ?</title><link>https://gautierchomel.github.io/trd-tst/fr/docs/900_about/904_issues/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/fr/docs/900_about/904_issues/</guid><description>
+&lt;/ul></description></item><item><title>Docs: Vous rencontrez un problème ?</title><link>/fr/docs/900_about/904_issues/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/fr/docs/900_about/904_issues/</guid><description>
 &lt;p>Si vous ne trouvez pas la réponse à votre problème sur ce site,
 vous pouvez nous indiquer votre problème via le
 &lt;a href="https://www.edrlab.org/contact/">formulaire de contact&lt;/a>
@@ -91,7 +91,7 @@ l&amp;rsquo;indiquant pour que nous puissions mobiliser les personnes ressources
 &lt;ul>
 &lt;li>Système d&amp;rsquo;exploitation et sa version&lt;/li>
 &lt;li>Version de Thorium (elle est indiqué en bas de la bibliothèque sous le titre &lt;code>À propos de Thorium&lt;/code>)&lt;/li>
-&lt;/ul></description></item><item><title>Docs: Contribuez !</title><link>https://gautierchomel.github.io/trd-tst/fr/docs/900_about/905_contribute/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/fr/docs/900_about/905_contribute/</guid><description>
+&lt;/ul></description></item><item><title>Docs: Contribuez !</title><link>/fr/docs/900_about/905_contribute/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/fr/docs/900_about/905_contribute/</guid><description>
 &lt;p>Thorium et sa documentation sont développés grace à la communauté d&amp;rsquo;utilisateurs.&lt;/p>
 &lt;p>Nous avons besoin d&amp;rsquo;aide pour traduire cette documentation.&lt;/p>
 &lt;p>Pour ce faire, vous pouvez nous
@@ -122,7 +122,7 @@ languageName = &amp;#39;Español&amp;#39;
 contentDir = &amp;#39;content.es&amp;#39;
 weight = 3
 &lt;/code>&lt;/pre>&lt;p>Les images localisées comme les captures d&amp;rsquo;écran doivent être ajoutées dans le
-dossier &lt;code>statics/images/local-(deux lettres de la langue)&lt;/code>.&lt;/p></description></item><item><title>Docs: Accessibilité : conforme</title><link>https://gautierchomel.github.io/trd-tst/fr/docs/900_about/912_accessibility_declaration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/fr/docs/900_about/912_accessibility_declaration/</guid><description>
+dossier &lt;code>statics/images/local-(deux lettres de la langue)&lt;/code>.&lt;/p></description></item><item><title>Docs: Accessibilité : conforme</title><link>/fr/docs/900_about/912_accessibility_declaration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/fr/docs/900_about/912_accessibility_declaration/</guid><description>
 &lt;p>Ce site a été testé avec NVDA sur Firefox sous Windows 10. Aucun bloqueur d&amp;rsquo;accessibilité n&amp;rsquo;a été repéré.&lt;/p>
 &lt;p>Si vous rencontrez des difficultés vous pouvez nous en informer via le
 formulaire de contact ou en ouvrant une Issue sur notre
@@ -134,7 +134,7 @@ l&amp;rsquo;indiquant pour que nous puissions mobiliser les personnes ressources
 &lt;li>Système d&amp;rsquo;exploitation et sa version&lt;/li>
 &lt;li>Version de Thorium (elle est indiqué en bas de la bibliothèque sous le titre À propos de Thorium)&lt;/li>
 &lt;li>Technologie d&amp;rsquo;assistance utilisée.&lt;/li>
-&lt;/ul></description></item><item><title>Docs: Licence</title><link>https://gautierchomel.github.io/trd-tst/fr/docs/900_about/913_licence/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/fr/docs/900_about/913_licence/</guid><description>
+&lt;/ul></description></item><item><title>Docs: Licence</title><link>/fr/docs/900_about/913_licence/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/fr/docs/900_about/913_licence/</guid><description>
 &lt;p>
 Copyright 2021 European Digital Reading Lab. Tous droits réservés.
 Licensed to the Readium Foundation under one or more contributor license

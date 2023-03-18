@@ -1,9 +1,9 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thorium Reader – Accessibilité</title><link>https://gautierchomel.github.io/trd-tst/fr/docs/300_accessibility/</link><description>Recent content in Accessibilité on Thorium Reader</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://gautierchomel.github.io/trd-tst/fr/docs/300_accessibility/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Informations d'accessibilité</title><link>https://gautierchomel.github.io/trd-tst/fr/docs/300_accessibility/301_a11yinfos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/fr/docs/300_accessibility/301_a11yinfos/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thorium Reader – Accessibilité</title><link>/fr/docs/300_accessibility/</link><description>Recent content in Accessibilité on Thorium Reader</description><generator>Hugo -- gohugo.io</generator><atom:link href="/fr/docs/300_accessibility/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Informations d'accessibilité</title><link>/fr/docs/300_accessibility/301_a11yinfos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/fr/docs/300_accessibility/301_a11yinfos/</guid><description>
 &lt;p>Actuellement Thorium affiche dans la
-&lt;a href="https://gautierchomel.github.io/trd-tst/thorium-reader-doc/fr/400_ressources/420_glossary#bookInformation">Fiche Livre&lt;/a>
+&lt;a href="/thorium-reader-doc/fr/400_ressources/420_glossary#bookInformation">Fiche Livre&lt;/a>
 sous l&amp;rsquo;intitulé &lt;code>Description&lt;/code> le contenu de la métadonnée Résumé d&amp;rsquo;accessibilité
 (&lt;span lang="en">accessibilitySummary&lt;/span>).&lt;/p>
-&lt;img src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-bookinfo-a11ysummary.png" alt="Capture d'écran, le livre La marque des quatre indique : Cette publication est conforme à la « Charte SNE - EPUBs “textuels” nativement accessibles »."/>
+&lt;img src="/images/local-fr/thorium-bookinfo-a11ysummary.png" alt="Capture d'écran, le livre La marque des quatre indique : Cette publication est conforme à la « Charte SNE - EPUBs “textuels” nativement accessibles »."/>
 &lt;div class="alert alert-primary" role="alert">
 &lt;p>Attention !&lt;/p>
 &lt;p>Des travaux sont en cours pour proposer un guide d&amp;rsquo;affichage des informations
@@ -15,7 +15,7 @@ prochainement.&lt;/p>
 &lt;p>Les informations d&amp;rsquo;accessibilité doivent être renseignées par les éditeurs.
 Thorium affiche ces informations telles qu&amp;rsquo;elles ont étées définies.
 En cas de doute ou de réclamation contactez le distributeur ou l&amp;rsquo;éditeur du fichier.&lt;/p>
-&lt;/div></description></item><item><title>Docs: Fonctions d'accessibilité natives</title><link>https://gautierchomel.github.io/trd-tst/fr/docs/300_accessibility/310_natives/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/fr/docs/300_accessibility/310_natives/</guid><description>
+&lt;/div></description></item><item><title>Docs: Fonctions d'accessibilité natives</title><link>/fr/docs/300_accessibility/310_natives/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/fr/docs/300_accessibility/310_natives/</guid><description>
 &lt;div class="alert alert-primary" role="alert">
 &lt;p>Attention !&lt;/p>
 &lt;p>Les fonctions d&amp;rsquo;accessibilité natives proposées par Thorium peuvent-être
@@ -24,7 +24,7 @@ fortement affectées par la qualité des fichiers lus.&lt;/p>
 &lt;h2 id="ajustements-visuels">Ajustements visuels&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>L&amp;rsquo;application permet de &lt;a href="https://gautierchomel.github.io/trd-tst/thorium-reader-doc/fr/210_reading/215_ReadingParameters/#th%c3%a8me">modifier les thèmes de couleurs&lt;/a> et de &lt;a href="https://gautierchomel.github.io/trd-tst/thorium-reader-doc/fr/210_reading/215_ReadingParameters/#texte">modifier la police d&amp;rsquo;affichage, la taille du texte&lt;/a>.&lt;/p>
+&lt;p>L&amp;rsquo;application permet de &lt;a href="/thorium-reader-doc/fr/210_reading/215_ReadingParameters/#th%c3%a8me">modifier les thèmes de couleurs&lt;/a> et de &lt;a href="/thorium-reader-doc/fr/210_reading/215_ReadingParameters/#texte">modifier la police d&amp;rsquo;affichage, la taille du texte&lt;/a>.&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>il est possible d&amp;rsquo;utiliser toutes les polices installées sur l&amp;rsquo;ordinateur.&lt;/p>
@@ -75,7 +75,7 @@ des options disponible dans le menu &lt;code>Paramètres / Readaloud&lt;/code>.&
 &lt;/ul>
 &lt;div class="alert alert-primary" role="alert">
 Thorium utilise les voix du système d&amp;rsquo;exploitation de l&amp;rsquo;ordinateur, en combinaison avec les informations linguistiques fournies par le livre. Si vous rencontrez des problèmes, veuillez consulter l&amp;rsquo;entrée correspondante de la section questions fréquentes &lt;a href="../400_ressources/430_faq#TTSvoicesFR">Je ne peux pas sélectionner la voix adéquate pour la fonction de lecture à haute voix (TTS)&lt;/a>
-&lt;/div></description></item><item><title>Docs: Lire avec un lecteur d'écran</title><link>https://gautierchomel.github.io/trd-tst/fr/docs/300_accessibility/310_screenreaders/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/fr/docs/300_accessibility/310_screenreaders/</guid><description>
+&lt;/div></description></item><item><title>Docs: Lire avec un lecteur d'écran</title><link>/fr/docs/300_accessibility/310_screenreaders/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/fr/docs/300_accessibility/310_screenreaders/</guid><description>
 &lt;p>Lors du lancement de Thorium, si un lecteur d&amp;rsquo;écran est repéré, les fonctions
 relatives sont activées.&lt;/p>
 &lt;div class="alert alert-primary" role="alert">
@@ -203,7 +203,7 @@ des majuscules)&lt;/p>
 &lt;td>&lt;kbd>ALT&lt;/kbd> + &lt;kbd>CTRL&lt;/kbd> + &lt;kbd>↑&lt;/kbd>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></description></item><item><title>Docs: Tests et démarche</title><link>https://gautierchomel.github.io/trd-tst/fr/docs/300_accessibility/391_epubtest/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/fr/docs/300_accessibility/391_epubtest/</guid><description>
+&lt;/table></description></item><item><title>Docs: Tests et démarche</title><link>/fr/docs/300_accessibility/391_epubtest/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/fr/docs/300_accessibility/391_epubtest/</guid><description>
 &lt;p>EDRLab entretient des relations étroites avec le DAISY Consortium.
 Grâce aux personnes ayant des hadicaps visuels qui participent à notre design
 et à nos essais, Thorium Reader cherche à être l&amp;rsquo;une des applications de

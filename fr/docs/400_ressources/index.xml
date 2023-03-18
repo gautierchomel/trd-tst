@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thorium Reader – Ressources</title><link>https://gautierchomel.github.io/trd-tst/fr/docs/400_ressources/</link><description>Recent content in Ressources on Thorium Reader</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://gautierchomel.github.io/trd-tst/fr/docs/400_ressources/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Raccourcis clavier</title><link>https://gautierchomel.github.io/trd-tst/fr/docs/400_ressources/402_keyboard-shortcuts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/fr/docs/400_ressources/402_keyboard-shortcuts/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thorium Reader – Ressources</title><link>/fr/docs/400_ressources/</link><description>Recent content in Ressources on Thorium Reader</description><generator>Hugo -- gohugo.io</generator><atom:link href="/fr/docs/400_ressources/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Raccourcis clavier</title><link>/fr/docs/400_ressources/402_keyboard-shortcuts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/fr/docs/400_ressources/402_keyboard-shortcuts/</guid><description>
 &lt;div class="alert alert-primary" role="alert">
 &lt;p>Information&lt;/p>
 &lt;p>La touche &lt;kbd>Shift&lt;/kbd> est marquée &lt;kbd>Maj&lt;/kbd> sur certains claviers,
@@ -199,7 +199,7 @@ pour l'audio (TTS ou EPUB3 Media Overlays pour la lecture à voix haute).
 &lt;dd> dans la fenêtre de lecture, appelle la commande "stop" pour l'audio
 (TTS ou EPUB3 Media Overlays readaloud, ou "pause" pour les livres audio).
 &lt;/dd>
-&lt;/dl></description></item><item><title>Docs: Formats de publication pris en charge</title><link>https://gautierchomel.github.io/trd-tst/fr/docs/400_ressources/406_formats/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/fr/docs/400_ressources/406_formats/</guid><description>
+&lt;/dl></description></item><item><title>Docs: Formats de publication pris en charge</title><link>/fr/docs/400_ressources/406_formats/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/fr/docs/400_ressources/406_formats/</guid><description>
 &lt;dl>
 &lt;dt>EPUB 2&lt;/dt>
 &lt;dd> il s'agit d'un format ancien, uniquement adapté aux
@@ -242,12 +242,12 @@ basés sur des séquences d'images.
 Le format &lt;a href="https://www.edrlab.org/open-standards/">Divina&lt;/a>
 est encore expérimental
 et nous espérons que les éditeurs l'adopteront dès 2022.
-&lt;/dd>&lt;/dl></description></item><item><title>Docs: Astuces</title><link>https://gautierchomel.github.io/trd-tst/fr/docs/400_ressources/409_tips/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/fr/docs/400_ressources/409_tips/</guid><description>
+&lt;/dd>&lt;/dl></description></item><item><title>Docs: Astuces</title><link>/fr/docs/400_ressources/409_tips/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/fr/docs/400_ressources/409_tips/</guid><description>
 &lt;p>En maintenant les touches modificatrices &lt;kbd>Shift&lt;/kbd> + &lt;kbd>ALT&lt;/kbd>
 tout en appuyant sur la touche &lt;kbd>Entrée&lt;/kbd> ou en cliquant avec la souris
 pour activer les liens dans le volet de navigation modal coulissant, le panneau
 de l&amp;rsquo;interface utilisateur reste ouvert (par exemple, la table des matières,
-les points de repère, les signets, le bouton &lt;code>Aller à la page&lt;/code>, etc.)&lt;/p></description></item><item><title>Docs: Lexique</title><link>https://gautierchomel.github.io/trd-tst/fr/docs/400_ressources/420_glossary/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/fr/docs/400_ressources/420_glossary/</guid><description>
+les points de repère, les signets, le bouton &lt;code>Aller à la page&lt;/code>, etc.)&lt;/p></description></item><item><title>Docs: Lexique</title><link>/fr/docs/400_ressources/420_glossary/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/fr/docs/400_ressources/420_glossary/</guid><description>
 &lt;dl>
 &lt;dt id="bookInformation">Fiche livre&lt;/dt>
 &lt;dd> Donne des informations sur le livre numérique. Ces informations sont
@@ -270,7 +270,7 @@ l'exception handicap du code de la propriété intellectuelle.
 &lt;dl>
 &lt;dt id="OPDS">OPDS&lt;/dt>:&lt;dd lang="en"> Open Publication Distribution System
 &lt;/dd>
-&lt;/dl></description></item><item><title>Docs: Questions fréquentes</title><link>https://gautierchomel.github.io/trd-tst/fr/docs/400_ressources/430_faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/fr/docs/400_ressources/430_faq/</guid><description>
+&lt;/dl></description></item><item><title>Docs: Questions fréquentes</title><link>/fr/docs/400_ressources/430_faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/fr/docs/400_ressources/430_faq/</guid><description>
 &lt;dl>
 &lt;dt id="TTSvoicesFR">Je ne peux pas sélectionner la voix adéquate pour la fonction de lecture à haute voix (TTS).&lt;/dt>
 &lt;dd>Thorium utilise les voix du système d'exploitation de l'ordinateur, en combinaison avec les informations linguistiques fournies par le livre.

@@ -1,9 +1,9 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thorium Reader – Accessibility</title><link>https://gautierchomel.github.io/trd-tst/docs/300_accessibility/</link><description>Recent content in Accessibility on Thorium Reader</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://gautierchomel.github.io/trd-tst/docs/300_accessibility/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Accessibility information</title><link>https://gautierchomel.github.io/trd-tst/docs/300_accessibility/301_a11yinfos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/300_accessibility/301_a11yinfos/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thorium Reader – Accessibility</title><link>/docs/300_accessibility/</link><description>Recent content in Accessibility on Thorium Reader</description><generator>Hugo -- gohugo.io</generator><atom:link href="/docs/300_accessibility/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Accessibility information</title><link>/docs/300_accessibility/301_a11yinfos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/300_accessibility/301_a11yinfos/</guid><description>
 &lt;p>Currently Thorium displays in the
-&lt;a href="https://gautierchomel.github.io/trd-tst/thorium-reader-doc/400_ressources/420_glossary#bookInformation">Book information panel&lt;/a>
+&lt;a href="/thorium-reader-doc/400_ressources/420_glossary#bookInformation">Book information panel&lt;/a>
 under the heading &lt;code>Description&lt;/code> the content of the accessibility summary metadata
 (&lt;span lang="en">accessibilitySummary&lt;/span>).&lt;/p>
-&lt;img src="https://gautierchomel.github.io/trd-tst/images/local-fr/thorium-bookinfo-a11ysummary.png" alt="Screenshot, the book The Mark of Four indicates: This publication complies with the SNE Charter - natively accessible textual EPUBs »."/>
+&lt;img src="/images/local-fr/thorium-bookinfo-a11ysummary.png" alt="Screenshot, the book The Mark of Four indicates: This publication complies with the SNE Charter - natively accessible textual EPUBs »."/>
 &lt;div class="alert alert-primary" role="alert">
 &lt;p>Attention !&lt;/p>
 &lt;p>Work is underway to develop a guide for displaying accessibility information.
@@ -15,7 +15,7 @@ We are following this work and will implement the recommendations soon.&lt;/p>
 Thorium displays this information as it was defined.
 In case of doubt or complaint,
 please contact the distributor or the publisher of the file.&lt;/p>
-&lt;/div></description></item><item><title>Docs: Native accessibility functions</title><link>https://gautierchomel.github.io/trd-tst/docs/300_accessibility/310_natives/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/300_accessibility/310_natives/</guid><description>
+&lt;/div></description></item><item><title>Docs: Native accessibility functions</title><link>/docs/300_accessibility/310_natives/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/300_accessibility/310_natives/</guid><description>
 &lt;div class="alert alert-primary" role="alert">
 &lt;p>Attention !&lt;/p>
 &lt;p>The native accessibility features offered by Thorium are strongly
@@ -24,7 +24,7 @@ affected by the quality of the read files.&lt;/p>
 &lt;h2 id="visual-adjustments">Visual adjustments&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>The application allows you to &lt;a href="https://gautierchomel.github.io/trd-tst/thorium-reader-doc/210_reading/215_ReadingParameters/#th%c3%a8me">change the color themes&lt;/a> and &lt;a href="https://gautierchomel.github.io/trd-tst/thorium-reader-doc/210_reading/215_ReadingParameters/#texte">change the display font, text size&lt;/a>.&lt;/p>
+&lt;p>The application allows you to &lt;a href="/thorium-reader-doc/210_reading/215_ReadingParameters/#th%c3%a8me">change the color themes&lt;/a> and &lt;a href="/thorium-reader-doc/210_reading/215_ReadingParameters/#texte">change the display font, text size&lt;/a>.&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>it is possible to use all the fonts installed on the computer.&lt;/p>
@@ -75,7 +75,7 @@ options available in the &lt;code>Settings / Readaloud&lt;/code> menu.&lt;/p>
 &lt;/ul>
 &lt;div class="alert alert-primary" role="alert">
 Thorium uses the voices from the computer&amp;rsquo;s operating system, in combination with the language information provided by the book. If you experience problems please check the related FAQ entry &lt;a href="../400_ressources/430_faq#TTSvoices">I can&amp;rsquo;t select the adequate voice for read aloud function (TTS)&lt;/a>.
-&lt;/div></description></item><item><title>Docs: Reading with a screen reader</title><link>https://gautierchomel.github.io/trd-tst/docs/300_accessibility/310_screenreaders/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/300_accessibility/310_screenreaders/</guid><description>
+&lt;/div></description></item><item><title>Docs: Reading with a screen reader</title><link>/docs/300_accessibility/310_screenreaders/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/300_accessibility/310_screenreaders/</guid><description>
 &lt;p>When launching Thorium, if a screen reader is detected, the relative functions
 functions are activated.&lt;/p>
 &lt;div class="alert alert-primary" role="alert">
@@ -202,7 +202,7 @@ modifier key of the screen reader (e.g. the Caps Lock key).&lt;/p>
 &lt;td>&lt;kbd>ALT&lt;/kbd> + &lt;kbd>CTRL&lt;/kbd> + &lt;kbd>↑&lt;/kbd>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></description></item><item><title>Docs: Tests and approach</title><link>https://gautierchomel.github.io/trd-tst/docs/300_accessibility/391_epubtest/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gautierchomel.github.io/trd-tst/docs/300_accessibility/391_epubtest/</guid><description>
+&lt;/table></description></item><item><title>Docs: Tests and approach</title><link>/docs/300_accessibility/391_epubtest/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/300_accessibility/391_epubtest/</guid><description>
 &lt;p>EDRLab has a close relationship with the DAISY Consortium.
 Thanks to the people with visual impairments who participate in our design
 and testing, Thorium Reader aims to be one of the most
