@@ -8,7 +8,7 @@ jobs:
     strategy:
       matrix:
         hugo-version:
-          - '0.68.0'
+          - '0.109.0'
     steps:
       - uses: actions/checkout@v2
 
